@@ -1,0 +1,1620 @@
+,,,,,
+Raw RT-qPCR sgRNA data,,,,,
+,,,,,
+Plate number,Well position,RNA sample ID,cQ,Sample type,Viral RNA concentration (copies/μL)
+1,A1,COVRNA0096,Undetermined,Clinical sample,0
+1,A2,Water,Undetermined,Water,0
+1,A3,COVRNA0041,31.38172722,Clinical sample,119
+1,A4,COVRNA0325,Undetermined,Clinical sample,0
+1,A5,COVRNA0003,40.10807419,Clinical sample,0
+1,A6,COVRNA0349,Undetermined,Clinical sample,0
+1,A7,COVRNA0182,Undetermined,Clinical sample,0
+1,A8,COVRNA0265,Undetermined,Clinical sample,0
+1,A9,COVRNA0373,38.61811066,Clinical sample,0
+1,A10,COVRNA0170,Undetermined,Clinical sample,0
+1,A11,Water,Undetermined,Water,0
+1,A12,COVRNA0264,Undetermined,Clinical sample,0
+1,A13,COVRNA0305,Undetermined,Clinical sample,0
+1,A14,COVRNA0153,35.41437149,Clinical sample,7
+1,A15,COVRNA0159,31.54874611,Clinical sample,60
+1,A16,Water,Undetermined,Water,0
+1,A17,Water,Undetermined,Water,0
+1,A18,COVRNA0191,Undetermined,Clinical sample,0
+1,A19,COVRNA0018,Undetermined,Clinical sample,0
+1,A20,COVRNA0095,Undetermined,Clinical sample,0
+1,A21,sgRNA_1000000,18.39922714,sgRNA standard,1371347
+1,A22,sgRNA_1000000,18.53097916,sgRNA standard,685625
+1,A23,H2O,Undetermined,Water,0
+1,A24,H2O,Undetermined,Water,0
+1,B1,COVRNA0096,Undetermined,Clinical sample,0
+1,B2,Water,Undetermined,Water,0
+1,B3,COVRNA0041,30.7418766,Clinical sample,119
+1,B4,COVRNA0325,Undetermined,Clinical sample,0
+1,B5,COVRNA0003,Undetermined,Clinical sample,0
+1,B6,COVRNA0349,36.62028885,Clinical sample,0
+1,B7,COVRNA0182,Undetermined,Clinical sample,0
+1,B8,COVRNA0265,Undetermined,Clinical sample,0
+1,B9,COVRNA0373,37.69468307,Clinical sample,0
+1,B10,COVRNA0170,Undetermined,Clinical sample,0
+1,B11,Water,Undetermined,Water,0
+1,B12,COVRNA0264,Undetermined,Clinical sample,0
+1,B13,COVRNA0305,Undetermined,Clinical sample,0
+1,B14,COVRNA0153,35.96906662,Clinical sample,4
+1,B15,COVRNA0159,31.91893578,Clinical sample,60
+1,B16,Water,Undetermined,Water,0
+1,B17,Water,Undetermined,Water,0
+1,B18,COVRNA0191,Undetermined,Clinical sample,0
+1,B19,COVRNA0018,Undetermined,Clinical sample,0
+1,B20,COVRNA0095,Undetermined,Clinical sample,0
+1,B21,sgRNA_1000000,18.43548775,sgRNA standard,1371347
+1,B22,sgRNA_1000000,18.45272255,sgRNA standard,1371347
+1,B23,H2O,Undetermined,Water,0
+1,B24,H2O,Undetermined,Water,0
+1,C1,COVRNA0333,Undetermined,Clinical sample,0
+1,C2,COVRNA0327,Undetermined,Clinical sample,0
+1,C3,COVRNA0131,Undetermined,Clinical sample,0
+1,C4,COVRNA0150,32.94142151,Clinical sample,30
+1,C5,COVRNA0249,34.98932648,Clinical sample,7
+1,C6,COVRNA0022,Undetermined,Clinical sample,0
+1,C7,COVRNA0245,Undetermined,Clinical sample,0
+1,C8,COVRNA0252,36.98136139,Clinical sample,0
+1,C9,COVRNA0260,Undetermined,Clinical sample,0
+1,C10,COVRNA0121,Undetermined,Clinical sample,0
+1,C11,COVRNA0009,Undetermined,Clinical sample,0
+1,C12,COVRNA0376,Undetermined,Clinical sample,0
+1,C13,COVRNA0335,33.2560997,Clinical sample,30
+1,C14,COVRNA0334,Undetermined,Clinical sample,0
+1,C15,COVRNA0304,39.17620468,Clinical sample,0
+1,C16,COVRNA0059,33.1254921,Clinical sample,30
+1,C17,ZYPOS001,Undetermined,Control,0
+1,C18,ZYPOS005,Undetermined,Control,0
+1,C19,OGPOS001,Undetermined,Control,0
+1,C20,OGPOS005,Undetermined,Control,0
+1,C21,sgRNA_100000,21.8361702,sgRNA standard,85685
+1,C22,sgRNA_100000,21.81143761,sgRNA standard,85685
+1,C23,10000,Undetermined,ATCC standards,0
+1,C24,10000,Undetermined,ATCC standards,0
+1,D1,COVRNA0333,Undetermined,Clinical sample,0
+1,D2,COVRNA0327,Undetermined,Clinical sample,0
+1,D3,COVRNA0131,Undetermined,Clinical sample,0
+1,D4,COVRNA0150,33.6187439,Clinical sample,15
+1,D5,COVRNA0249,34.61222839,Clinical sample,7
+1,D6,COVRNA0022,36.46109009,Clinical sample,4
+1,D7,COVRNA0245,Undetermined,Clinical sample,0
+1,D8,COVRNA0252,Undetermined,Clinical sample,0
+1,D9,COVRNA0260,Undetermined,Clinical sample,0
+1,D10,COVRNA0121,Undetermined,Clinical sample,0
+1,D11,COVRNA0009,Undetermined,Clinical sample,0
+1,D12,COVRNA0376,Undetermined,Clinical sample,0
+1,D13,COVRNA0335,33.21759033,Clinical sample,30
+1,D14,COVRNA0334,36.24490738,Clinical sample,4
+1,D15,COVRNA0304,37.36959457,Clinical sample,0
+1,D16,COVRNA0059,33.55867004,Clinical sample,15
+1,D17,ZYPOS001,Undetermined,Control,0
+1,D18,ZYPOS005,Undetermined,Control,0
+1,D19,OGPOS001,Undetermined,Control,0
+1,D20,OGPOS005,Undetermined,Control,0
+1,D21,sgRNA_100000,21.81534195,sgRNA standard,85685
+1,D22,sgRNA_100000,21.85457611,sgRNA standard,85685
+1,D23,10000,Undetermined,ATCC standards,0
+1,D24,10000,Undetermined,ATCC standards,0
+1,E1,COVRNA0309,Undetermined,Clinical sample,0
+1,E2,COVRNA0336,Undetermined,Clinical sample,0
+1,E3,COVRNA0268,Undetermined,Clinical sample,0
+1,E4,COVRNA0167,Undetermined,Clinical sample,0
+1,E5,COVRNA0140,19.10940361,Clinical sample,489732
+1,E6,COVRNA0172,Undetermined,Clinical sample,0
+1,E7,COVRNA0083,Undetermined,Clinical sample,0
+1,E8,COVRNA0065,Undetermined,Clinical sample,0
+1,E9,COVRNA0209,Undetermined,Clinical sample,0
+1,E10,COVRNA0163,Undetermined,Clinical sample,0
+1,E11,COVRNA0060,Undetermined,Clinical sample,0
+1,E12,COVRNA0377,Undetermined,Clinical sample,0
+1,E13,COVRNA0337,Undetermined,Clinical sample,0
+1,E14,COVRNA0207,Undetermined,Clinical sample,0
+1,E15,COVRNA0356,27.982687,Clinical sample,956
+1,E16,COVRNA0194,Undetermined,Clinical sample,0
+1,E17,COVRNA0129,29.74712944,Clinical sample,239
+1,E18,COVRNA0365,Undetermined,Clinical sample,0
+1,E19,Water,Undetermined,Water,0
+1,E20,COVRNA0161,Undetermined,Clinical sample,0
+1,E21,sgRNA_10000,25.13119316,sgRNA standard,10708
+1,E22,sgRNA_10000,24.98478317,sgRNA standard,10708
+1,E23,1000,Undetermined,ATCC standards,0
+1,E24,1000,Undetermined,ATCC standards,0
+1,F1,COVRNA0309,Undetermined,Clinical sample,0
+1,F2,COVRNA0336,Undetermined,Clinical sample,0
+1,F3,COVRNA0268,Undetermined,Clinical sample,0
+1,F4,COVRNA0167,Undetermined,Clinical sample,0
+1,F5,COVRNA0140,19.20440865,Clinical sample,489732
+1,F6,COVRNA0172,Undetermined,Clinical sample,0
+1,F7,COVRNA0083,Undetermined,Clinical sample,0
+1,F8,COVRNA0065,Undetermined,Clinical sample,0
+1,F9,COVRNA0209,Undetermined,Clinical sample,0
+1,F10,COVRNA0163,Undetermined,Clinical sample,0
+1,F11,COVRNA0060,Undetermined,Clinical sample,0
+1,F12,COVRNA0377,Undetermined,Clinical sample,0
+1,F13,COVRNA0337,Undetermined,Clinical sample,0
+1,F14,COVRNA0207,Undetermined,Clinical sample,0
+1,F15,COVRNA0356,27.42788315,Clinical sample,1912
+1,F16,COVRNA0194,Undetermined,Clinical sample,0
+1,F17,COVRNA0129,30.02358055,Clinical sample,239
+1,F18,COVRNA0365,Undetermined,Clinical sample,0
+1,F19,Water,Undetermined,Water,0
+1,F20,COVRNA0161,Undetermined,Clinical sample,0
+1,F21,sgRNA_10000,24.94816208,sgRNA standard,10708
+1,F22,sgRNA_10000,25.04301834,sgRNA standard,10708
+1,F23,1000,Undetermined,ATCC standards,0
+1,F24,1000,Undetermined,ATCC standards,0
+1,G1,COVRNA0185,Undetermined,Clinical sample,0
+1,G2,COVRNA0134,34.15028381,Clinical sample,15
+1,G3,COVRNA0062,Undetermined,Clinical sample,0
+1,G4,COVRNA0116,Undetermined,Clinical sample,0
+1,G5,COVRNA0038,Undetermined,Clinical sample,0
+1,G6,COVRNA0331,Undetermined,Clinical sample,0
+1,G7,COVRNA0184,Undetermined,Clinical sample,0
+1,G8,COVRNA0023,Undetermined,Clinical sample,0
+1,G9,Water,Undetermined,Water,0
+1,G10,COVRNA0280,Undetermined,Clinical sample,0
+1,G11,COVRNA0214,Undetermined,Clinical sample,0
+1,G12,COVRNA0200,Undetermined,Clinical sample,0
+1,G13,COVRNA0360,Undetermined,Clinical sample,0
+1,G14,COVRNA0197,Undetermined,Clinical sample,0
+1,G15,COVRNA0288,Undetermined,Clinical sample,0
+1,G16,COVRNA0370,Undetermined,Clinical sample,0
+1,G17,ZYPOS002,Undetermined,Control,0
+1,G18,ZYPOS006,Undetermined,Control,0
+1,G19,OGPOS002,Undetermined,Control,0
+1,G20,OGPOS006,Undetermined,Control,0
+1,G21,sgRNA_1000,28.49338341,sgRNA standard,1338
+1,G22,sgRNA_1000,28.4464798,sgRNA standard,1338
+1,G23,100,Undetermined,ATCC standards,0
+1,G24,100,Undetermined,ATCC standards,0
+1,H1,COVRNA0185,Undetermined,Clinical sample,0
+1,H2,COVRNA0134,34.95221329,Clinical sample,7
+1,H3,COVRNA0062,Undetermined,Clinical sample,0
+1,H4,COVRNA0116,Undetermined,Clinical sample,0
+1,H5,COVRNA0038,Undetermined,Clinical sample,0
+1,H6,COVRNA0331,Undetermined,Clinical sample,0
+1,H7,COVRNA0184,Undetermined,Clinical sample,0
+1,H8,COVRNA0023,Undetermined,Clinical sample,0
+1,H9,Water,Undetermined,Water,0
+1,H10,COVRNA0280,Undetermined,Clinical sample,0
+1,H11,COVRNA0214,Undetermined,Clinical sample,0
+1,H12,COVRNA0200,Undetermined,Clinical sample,0
+1,H13,COVRNA0360,Undetermined,Clinical sample,0
+1,H14,COVRNA0197,Undetermined,Clinical sample,0
+1,H15,COVRNA0288,Undetermined,Clinical sample,0
+1,H16,COVRNA0370,Undetermined,Clinical sample,0
+1,H17,ZYPOS002,Undetermined,Control,0
+1,H18,ZYPOS006,Undetermined,Control,0
+1,H19,OGPOS002,Undetermined,Control,0
+1,H20,OGPOS006,Undetermined,Control,0
+1,H21,sgRNA_1000,28.48724747,sgRNA standard,1338
+1,H22,sgRNA_1000,28.69592667,sgRNA standard,669
+1,H23,100,Undetermined,ATCC standards,0
+1,H24,100,Undetermined,ATCC standards,0
+1,I1,COVRNA0044,Undetermined,Clinical sample,0
+1,I2,COVRNA0196,Undetermined,Clinical sample,0
+1,I3,COVRNA0055,Undetermined,Clinical sample,0
+1,I4,COVRNA0015,34.84724808,Clinical sample,7
+1,I5,COVRNA0347,Undetermined,Clinical sample,0
+1,I6,COVRNA0230,Undetermined,Clinical sample,0
+1,I7,COVRNA0203,Undetermined,Clinical sample,0
+1,I8,COVRNA0144,Undetermined,Clinical sample,0
+1,I9,COVRNA0089,Undetermined,Clinical sample,0
+1,I10,COVRNA0295,Undetermined,Clinical sample,0
+1,I11,COVRNA0201,Undetermined,Clinical sample,0
+1,I12,COVRNA0259,Undetermined,Clinical sample,0
+1,I13,COVRNA0281,Undetermined,Clinical sample,0
+1,I14,COVRNA0220,Undetermined,Clinical sample,0
+1,I15,COVRNA0257,Undetermined,Clinical sample,0
+1,I16,COVRNA0339,37.33623123,Clinical sample,0
+1,I17,COVRNA0126,36.66030884,Clinical sample,0
+1,I18,COVRNA0106,Undetermined,Clinical sample,0
+1,I19,COVRNA0162,Undetermined,Clinical sample,0
+1,I20,COVRNA0224,35.78213882,Clinical sample,4
+1,I21,sgRNA_100,31.91339111,sgRNA standard,84
+1,I22,sgRNA_100,32.6106987,sgRNA standard,42
+1,I23,10,Undetermined,ATCC standards,0
+1,I24,10,Undetermined,ATCC standards,0
+1,J1,COVRNA0044,Undetermined,Clinical sample,0
+1,J2,COVRNA0196,Undetermined,Clinical sample,0
+1,J3,COVRNA0055,Undetermined,Clinical sample,0
+1,J4,COVRNA0015,34.35967255,Clinical sample,15
+1,J5,COVRNA0347,Undetermined,Clinical sample,0
+1,J6,COVRNA0230,Undetermined,Clinical sample,0
+1,J7,COVRNA0203,Undetermined,Clinical sample,0
+1,J8,COVRNA0144,Undetermined,Clinical sample,0
+1,J9,COVRNA0089,Undetermined,Clinical sample,0
+1,J10,COVRNA0295,Undetermined,Clinical sample,0
+1,J11,COVRNA0201,Undetermined,Clinical sample,0
+1,J12,COVRNA0259,Undetermined,Clinical sample,0
+1,J13,COVRNA0281,Undetermined,Clinical sample,0
+1,J14,COVRNA0220,Undetermined,Clinical sample,0
+1,J15,COVRNA0257,Undetermined,Clinical sample,0
+1,J16,COVRNA0339,38.12827301,Clinical sample,0
+1,J17,COVRNA0126,36.36159515,Clinical sample,4
+1,J18,COVRNA0106,Undetermined,Clinical sample,0
+1,J19,COVRNA0162,Undetermined,Clinical sample,0
+1,J20,COVRNA0224,Undetermined,Clinical sample,0
+1,J21,sgRNA_100,32.15439606,sgRNA standard,84
+1,J22,sgRNA_100,32.26285553,sgRNA standard,84
+1,J23,10,Undetermined,ATCC standards,0
+1,J24,10,Undetermined,ATCC standards,0
+1,K1,Water,Undetermined,Water,0
+1,K2,COVRNA0085,26.45639992,Clinical sample,3824
+1,K3,COVRNA0042,Undetermined,Clinical sample,0
+1,K4,COVRNA0287,Undetermined,Clinical sample,0
+1,K5,COVRNA0157,26.52913666,Clinical sample,1912
+1,K6,COVRNA0069,36.6190834,Clinical sample,0
+1,K7,COVRNA0299,Undetermined,Clinical sample,0
+1,K8,COVRNA0345,Undetermined,Clinical sample,0
+1,K9,COVRNA0202,Undetermined,Clinical sample,0
+1,K10,COVRNA0075,26.74060631,Clinical sample,1912
+1,K11,COVRNA0361,Undetermined,Clinical sample,0
+1,K12,COVRNA0320,Undetermined,Clinical sample,0
+1,K13,COVRNA0138,Undetermined,Clinical sample,0
+1,K14,COVRNA0266,Undetermined,Clinical sample,0
+1,K15,COVRNA0133,26.5957489,Clinical sample,1912
+1,K16,COVRNA0094,25.01753807,Clinical sample,7649
+1,K17,ZYPOS003,Undetermined,Control,0
+1,K18,ZYPOS007,Undetermined,Control,0
+1,K19,OGPOS003,Undetermined,Control,0
+1,K20,OGPOS007,Undetermined,Control,0
+1,K21,sgRNA_10,35.17207718,sgRNA standard,10
+1,K22,sgRNA_10,34.4478302,sgRNA standard,21
+1,K23,1,Undetermined,ATCC standards,0
+1,K24,1,Undetermined,ATCC standards,0
+1,L1,Water,Undetermined,Water,0
+1,L2,COVRNA0085,26.32403755,Clinical sample,3824
+1,L3,COVRNA0042,Undetermined,Clinical sample,0
+1,L4,COVRNA0287,Undetermined,Clinical sample,0
+1,L5,COVRNA0157,26.75761604,Clinical sample,1912
+1,L6,COVRNA0069,Undetermined,Clinical sample,0
+1,L7,COVRNA0299,Undetermined,Clinical sample,0
+1,L8,COVRNA0345,Undetermined,Clinical sample,0
+1,L9,COVRNA0202,Undetermined,Clinical sample,0
+1,L10,COVRNA0075,26.88134956,Clinical sample,1912
+1,L11,COVRNA0361,Undetermined,Clinical sample,0
+1,L12,COVRNA0320,Undetermined,Clinical sample,0
+1,L13,COVRNA0138,Undetermined,Clinical sample,0
+1,L14,COVRNA0266,Undetermined,Clinical sample,0
+1,L15,COVRNA0133,26.83077621,Clinical sample,1912
+1,L16,COVRNA0094,24.99824333,Clinical sample,7649
+1,L17,ZYPOS003,Undetermined,Control,0
+1,L18,ZYPOS007,Undetermined,Control,0
+1,L19,OGPOS003,Undetermined,Control,0
+1,L20,OGPOS007,Undetermined,Control,0
+1,L21,sgRNA_10,35.20588684,sgRNA standard,10
+1,L22,sgRNA_10,35.63225937,sgRNA standard,5
+1,L23,1,Undetermined,ATCC standards,0
+1,L24,1,Undetermined,ATCC standards,0
+1,M1,COVRNA0293,Undetermined,Clinical sample,0
+1,M2,COVRNA0036,30.77074623,Clinical sample,119
+1,M3,COVRNA0188,Undetermined,Clinical sample,0
+1,M4,COVRNA0256,Undetermined,Clinical sample,0
+1,M5,COVRNA0199,Undetermined,Clinical sample,0
+1,M6,COVRNA0091,33.13110352,Clinical sample,30
+1,M7,COVRNA0301,Undetermined,Clinical sample,0
+1,M8,COVRNA0114,Undetermined,Clinical sample,0
+1,M9,COVRNA0171,Undetermined,Clinical sample,0
+1,M10,COVRNA0285,Undetermined,Clinical sample,0
+1,M11,COVRNA0374,Undetermined,Clinical sample,0
+1,M12,COVRNA0155,30.89773941,Clinical sample,119
+1,M13,COVRNA0051,31.42318535,Clinical sample,119
+1,M14,COVRNA0160,Undetermined,Clinical sample,0
+1,M15,COVRNA0128,30.26241875,Clinical sample,239
+1,M16,COVRNA0292,Undetermined,Clinical sample,0
+1,M17,COVRNA0216,Undetermined,Clinical sample,0
+1,M18,COVRNA0243,Undetermined,Clinical sample,0
+1,M19,COVRNA0039,Undetermined,Clinical sample,0
+1,M20,COVRNA0076,29.54240799,Clinical sample,239
+1,M21,sgRNA_1,Undetermined,sgRNA standard,0
+1,M22,sgRNA_1,Undetermined,sgRNA standard,0
+1,M23,0,Undetermined,ATCC standards,0
+1,M24,0,Undetermined,ATCC standards,0
+1,N1,COVRNA0293,Undetermined,Clinical sample,0
+1,N2,COVRNA0036,29.91444016,Clinical sample,239
+1,N3,COVRNA0188,Undetermined,Clinical sample,0
+1,N4,COVRNA0256,Undetermined,Clinical sample,0
+1,N5,COVRNA0199,Undetermined,Clinical sample,0
+1,N6,COVRNA0091,33.16718674,Clinical sample,30
+1,N7,COVRNA0301,Undetermined,Clinical sample,0
+1,N8,COVRNA0114,Undetermined,Clinical sample,0
+1,N9,COVRNA0171,Undetermined,Clinical sample,0
+1,N10,COVRNA0285,Undetermined,Clinical sample,0
+1,N11,COVRNA0374,Undetermined,Clinical sample,0
+1,N12,COVRNA0155,30.37891388,Clinical sample,239
+1,N13,COVRNA0051,31.54022789,Clinical sample,60
+1,N14,COVRNA0160,Undetermined,Clinical sample,0
+1,N15,COVRNA0128,30.07432365,Clinical sample,239
+1,N16,COVRNA0292,Undetermined,Clinical sample,0
+1,N17,COVRNA0216,Undetermined,Clinical sample,0
+1,N18,COVRNA0243,39.27224731,Clinical sample,0
+1,N19,COVRNA0039,Undetermined,Clinical sample,0
+1,N20,COVRNA0076,29.46536446,Clinical sample,478
+1,N21,sgRNA_1,36.21636581,sgRNA standard,5
+1,N22,sgRNA_1,Undetermined,sgRNA standard,0
+1,N23,0,Undetermined,ATCC standards,0
+1,N24,0,Undetermined,ATCC standards,0
+1,O1,COVRNA0343,Undetermined,Clinical sample,0
+1,O2,COVRNA0004,Undetermined,Clinical sample,0
+1,O3,COVRNA0312,40.74796295,Clinical sample,0
+1,O4,COVRNA0037,Undetermined,Clinical sample,0
+1,O5,COVRNA0122,Undetermined,Clinical sample,0
+1,O6,COVRNA0284,Undetermined,Clinical sample,0
+1,O7,COVRNA0165,Undetermined,Clinical sample,0
+1,O8,COVRNA0030,34.16244888,Clinical sample,15
+1,O9,COVRNA0250,Undetermined,Clinical sample,0
+1,O10,COVRNA0271,Undetermined,Clinical sample,0
+1,O11,COVRNA0353,Undetermined,Clinical sample,0
+1,O12,COVRNA0255,Undetermined,Clinical sample,0
+1,O13,COVRNA0375,Undetermined,Clinical sample,0
+1,O14,COVRNA0090,Undetermined,Clinical sample,0
+1,O15,COVRNA0198,Undetermined,Clinical sample,0
+1,O16,COVRNA0354,Undetermined,Clinical sample,0
+1,O17,ZYPOS004,Undetermined,Control,0
+1,O18,ZYPOS008,Undetermined,Control,0
+1,O19,OGPOS004,Undetermined,Control,0
+1,O20,OGPOS008,Undetermined,Control,0
+1,O21,sgRNA_0.1,Undetermined,sgRNA standard,0
+1,O22,sgRNA_0.1,Undetermined,sgRNA standard,0
+1,O23,H2O,Undetermined,Water,0
+1,O24,H2O,Undetermined,Water,0
+1,P1,COVRNA0343,Undetermined,Clinical sample,0
+1,P2,COVRNA0004,Undetermined,Clinical sample,0
+1,P3,COVRNA0312,Undetermined,Clinical sample,0
+1,P4,COVRNA0037,Undetermined,Clinical sample,0
+1,P5,COVRNA0122,Undetermined,Clinical sample,0
+1,P6,COVRNA0284,Undetermined,Clinical sample,0
+1,P7,COVRNA0165,Undetermined,Clinical sample,0
+1,P8,COVRNA0030,35.02736282,Clinical sample,7
+1,P9,COVRNA0250,Undetermined,Clinical sample,0
+1,P10,COVRNA0271,Undetermined,Clinical sample,0
+1,P11,COVRNA0353,Undetermined,Clinical sample,0
+1,P12,COVRNA0255,Undetermined,Clinical sample,0
+1,P13,COVRNA0375,Undetermined,Clinical sample,0
+1,P14,COVRNA0090,Undetermined,Clinical sample,0
+1,P15,COVRNA0198,Undetermined,Clinical sample,0
+1,P16,COVRNA0354,Undetermined,Clinical sample,0
+1,P17,ZYPOS004,Undetermined,Control,0
+1,P18,ZYPOS008,Undetermined,Control,0
+1,P19,OGPOS004,Undetermined,Control,0
+1,P20,OGPOS008,Undetermined,Control,0
+1,P21,sgRNA_0.1,Undetermined,sgRNA standard,0
+1,P22,sgRNA_0.1,Undetermined,sgRNA standard,0
+1,P23,H2O,Undetermined,Water,0
+1,P24,H2O,Undetermined,Water,0
+2,A1,COVRNA0338,Undetermined,Clinical sample,0
+2,A2,COVRNA0258,Undetermined,Clinical sample,0
+2,A3,COVRNA0109,Undetermined,Clinical sample,0
+2,A4,COVRNA0097,Undetermined,Clinical sample,0
+2,A5,COVRNA0241,Undetermined,Clinical sample,0
+2,A6,COVRNA0057,30.1159687,Clinical sample,388
+2,A7,COVRNA0248,Undetermined,Clinical sample,0
+2,A8,COVRNA0007,39.11849594,Clinical sample,0
+2,A9,COVRNA0273,Undetermined,Clinical sample,0
+2,A10,COVRNA0237,Undetermined,Clinical sample,0
+2,A11,COVRNA0118,Undetermined,Clinical sample,0
+2,A12,COVRNA0225,Undetermined,Clinical sample,0
+2,A13,COVRNA0226,Undetermined,Clinical sample,0
+2,A14,COVRNA0310,Undetermined,Clinical sample,0
+2,A15,COVRNA0212,Undetermined,Clinical sample,0
+2,A16,COVRNA0183,Undetermined,Clinical sample,0
+2,A17,COVRNA0358,Undetermined,Clinical sample,0
+2,A18,COVRNA0221,Undetermined,Clinical sample,0
+2,A19,COVRNA0124,Undetermined,Clinical sample,0
+2,A20,COVRNA0034,Undetermined,Clinical sample,0
+2,A21,sgRNA_1000000,18.87349129,sgRNA standard,822841
+2,A22,sgRNA_1000000,18.81136322,sgRNA standard,822841
+2,A23,H2O,Undetermined,Water,0
+2,A24,H2O,Undetermined,Water,0
+2,B1,COVRNA0338,Undetermined,Clinical sample,0
+2,B2,COVRNA0258,Undetermined,Clinical sample,0
+2,B3,COVRNA0109,Undetermined,Clinical sample,0
+2,B4,COVRNA0097,Undetermined,Clinical sample,0
+2,B5,COVRNA0241,37.19618988,Clinical sample,4
+2,B6,COVRNA0057,29.81429291,Clinical sample,388
+2,B7,COVRNA0248,Undetermined,Clinical sample,0
+2,B8,COVRNA0007,Undetermined,Clinical sample,0
+2,B9,COVRNA0273,Undetermined,Clinical sample,0
+2,B10,COVRNA0237,Undetermined,Clinical sample,0
+2,B11,COVRNA0118,Undetermined,Clinical sample,0
+2,B12,COVRNA0225,Undetermined,Clinical sample,0
+2,B13,COVRNA0226,Undetermined,Clinical sample,0
+2,B14,COVRNA0310,Undetermined,Clinical sample,0
+2,B15,COVRNA0212,Undetermined,Clinical sample,0
+2,B16,COVRNA0183,Undetermined,Clinical sample,0
+2,B17,COVRNA0358,Undetermined,Clinical sample,0
+2,B18,COVRNA0221,Undetermined,Clinical sample,0
+2,B19,COVRNA0124,Undetermined,Clinical sample,0
+2,B20,COVRNA0034,Undetermined,Clinical sample,0
+2,B21,sgRNA_1000000,18.8629818,sgRNA standard,822841
+2,B22,sgRNA_1000000,18.88426399,sgRNA standard,822841
+2,B23,H2O,Undetermined,Water,0
+2,B24,H2O,Undetermined,Water,0
+2,C1,COVRNA0239,35.24560547,Clinical sample,14
+2,C2,COVRNA0296,Undetermined,Clinical sample,0
+2,C3,COVRNA0074,25.72859001,Clinical sample,5564
+2,C4,COVRNA0326,Undetermined,Clinical sample,0
+2,C5,COVRNA0120,23.61476517,Clinical sample,21066
+2,C6,COVRNA0146,34.35004044,Clinical sample,27
+2,C7,COVRNA0282,Undetermined,Clinical sample,0
+2,C8,COVRNA0204,Undetermined,Clinical sample,0
+2,C9,COVRNA0321,Undetermined,Clinical sample,0
+2,C10,COVRNA0193,Undetermined,Clinical sample,0
+2,C11,COVRNA0135,Undetermined,Clinical sample,0
+2,C12,COVRNA0045,36.84371567,Clinical sample,4
+2,C13,COVRNA0033,Undetermined,Clinical sample,0
+2,C14,COVRNA0381,Undetermined,Clinical sample,0
+2,C15,COVRNA0190,Undetermined,Clinical sample,0
+2,C16,COVRNA0077,31.46466064,Clinical sample,199
+2,C17,ZYPOS009,Undetermined,Control,0
+2,C18,ZYPOS011,Undetermined,Control,0
+2,C19,OGPOS009,Undetermined,Control,0
+2,C20,OGPOS011,Undetermined,Control,0
+2,C21,sgRNA_100000,21.9391346,sgRNA standard,111675
+2,C22,sgRNA_100000,22.067379,sgRNA standard,111675
+2,C23,10000,Undetermined,ATCC standards,0
+2,C24,10000,Undetermined,ATCC standards,0
+2,D1,COVRNA0239,34.32060623,Clinical sample,27
+2,D2,COVRNA0296,Undetermined,Clinical sample,0
+2,D3,COVRNA0074,25.8633461,Clinical sample,5564
+2,D4,COVRNA0326,Undetermined,Clinical sample,0
+2,D5,COVRNA0120,23.60861778,Clinical sample,21066
+2,D6,COVRNA0146,33.82601547,Clinical sample,27
+2,D7,COVRNA0282,Undetermined,Clinical sample,0
+2,D8,COVRNA0204,Undetermined,Clinical sample,0
+2,D9,COVRNA0321,Undetermined,Clinical sample,0
+2,D10,COVRNA0193,Undetermined,Clinical sample,0
+2,D11,COVRNA0135,Undetermined,Clinical sample,0
+2,D12,COVRNA0045,Undetermined,Clinical sample,0
+2,D13,COVRNA0033,Undetermined,Clinical sample,0
+2,D14,COVRNA0381,Undetermined,Clinical sample,0
+2,D15,COVRNA0190,Undetermined,Clinical sample,0
+2,D16,COVRNA0077,31.94556808,Clinical sample,102
+2,D17,ZYPOS009,Undetermined,Control,0
+2,D18,ZYPOS011,Undetermined,Control,0
+2,D19,OGPOS009,Undetermined,Control,0
+2,D20,OGPOS011,Undetermined,Control,0
+2,D21,sgRNA_100000,21.94249344,sgRNA standard,111675
+2,D22,sgRNA_100000,22.29354477,sgRNA standard,111675
+2,D23,10000,Undetermined,ATCC standards,0
+2,D24,10000,Undetermined,ATCC standards,0
+2,E1,COVRNA0081,Undetermined,Clinical sample,0
+2,E2,COVRNA0217,37.6688118,Clinical sample,0
+2,E3,COVRNA0031,33.69734955,Clinical sample,27
+2,E4,COVRNA0314,Undetermined,Clinical sample,0
+2,E5,COVRNA0014,Undetermined,Clinical sample,0
+2,E6,COVRNA0127,33.24240494,Clinical sample,53
+2,E7,Water,Undetermined,Water,0
+2,E8,COVRNA0026,31.28499985,Clinical sample,199
+2,E9,COVRNA0148,36.74993515,Clinical sample,4
+2,E10,COVRNA0328,Undetermined,Clinical sample,0
+2,E11,Water,Undetermined,Water,0
+2,E12,COVRNA0238,Undetermined,Clinical sample,0
+2,E13,Water,Undetermined,Water,0
+2,E14,COVRNA0316,34.25684738,Clinical sample,27
+2,E15,COVRNA0032,Undetermined,Clinical sample,0
+2,E16,COVRNA0261,Undetermined,Clinical sample,0
+2,E17,COVRNA0211,Undetermined,Clinical sample,0
+2,E18,COVRNA0067,34.98398972,Clinical sample,14
+2,E19,COVRNA0137,29.61462212,Clinical sample,388
+2,E20,COVRNA0102,30.65979958,Clinical sample,199
+2,E21,sgRNA_10000,25.34352303,sgRNA standard,15156
+2,E22,sgRNA_10000,25.52412224,sgRNA standard,7789
+2,E23,1000,Undetermined,ATCC standards,0
+2,E24,1000,Undetermined,ATCC standards,0
+2,F1,COVRNA0081,Undetermined,Clinical sample,0
+2,F2,COVRNA0217,35.94846725,Clinical sample,7
+2,F3,COVRNA0031,34.23559189,Clinical sample,27
+2,F4,COVRNA0314,Undetermined,Clinical sample,0
+2,F5,COVRNA0014,Undetermined,Clinical sample,0
+2,F6,COVRNA0127,33.14341354,Clinical sample,53
+2,F7,Water,Undetermined,Water,0
+2,F8,COVRNA0026,31.22046661,Clinical sample,199
+2,F9,COVRNA0148,38.12643814,Clinical sample,0
+2,F10,COVRNA0328,Undetermined,Clinical sample,0
+2,F11,Water,Undetermined,Water,0
+2,F12,COVRNA0238,Undetermined,Clinical sample,0
+2,F13,Water,Undetermined,Water,0
+2,F14,COVRNA0316,34.67546463,Clinical sample,14
+2,F15,COVRNA0032,Undetermined,Clinical sample,0
+2,F16,COVRNA0261,Undetermined,Clinical sample,0
+2,F17,COVRNA0211,Undetermined,Clinical sample,0
+2,F18,COVRNA0067,36.66328812,Clinical sample,4
+2,F19,COVRNA0137,29.51663399,Clinical sample,388
+2,F20,COVRNA0102,30.30079651,Clinical sample,388
+2,F21,sgRNA_10000,25.17525291,sgRNA standard,15156
+2,F22,sgRNA_10000,25.62306404,sgRNA standard,7789
+2,F23,1000,Undetermined,ATCC standards,0
+2,F24,1000,Undetermined,ATCC standards,0
+2,G1,COVRNA0082,Undetermined,Clinical sample,0
+2,G2,COVRNA0294,Undetermined,Clinical sample,0
+2,G3,COVRNA0002,Undetermined,Clinical sample,0
+2,G4,COVRNA0117,Undetermined,Clinical sample,0
+2,G5,COVRNA0173,Undetermined,Clinical sample,0
+2,G6,COVRNA0001,Undetermined,Clinical sample,0
+2,G7,COVRNA0206,Undetermined,Clinical sample,0
+2,G8,COVRNA0372,38.97476578,Clinical sample,0
+2,G9,COVRNA0073,24.1291523,Clinical sample,21066
+2,G10,COVRNA0056,29.47194481,Clinical sample,755
+2,G11,COVRNA0071,Undetermined,Clinical sample,0
+2,G12,COVRNA0108,28.23047256,Clinical sample,1469
+2,G13,Water,Undetermined,Water,0
+2,G14,COVRNA0178,Undetermined,Clinical sample,0
+2,G15,COVRNA0232,Undetermined,Clinical sample,0
+2,G16,COVRNA0113,32.16926193,Clinical sample,102
+2,G17,ZYPOS015,Undetermined,Control,0
+2,G18,ZYPOS012,Undetermined,Control,0
+2,G19,OGPOS015,Undetermined,Control,0
+2,G20,OGPOS012,Undetermined,Control,0
+2,G21,sgRNA_1000,28.88236618,sgRNA standard,1057
+2,G22,sgRNA_1000,28.79586029,sgRNA standard,1057
+2,G23,100,Undetermined,ATCC standards,0
+2,G24,100,Undetermined,ATCC standards,0
+2,H1,COVRNA0082,Undetermined,Clinical sample,0
+2,H2,COVRNA0294,Undetermined,Clinical sample,0
+2,H3,COVRNA0002,Undetermined,Clinical sample,0
+2,H4,COVRNA0117,Undetermined,Clinical sample,0
+2,H5,COVRNA0173,Undetermined,Clinical sample,0
+2,H6,COVRNA0001,Undetermined,Clinical sample,0
+2,H7,COVRNA0206,Undetermined,Clinical sample,0
+2,H8,COVRNA0372,Undetermined,Clinical sample,0
+2,H9,COVRNA0073,24.03722,Clinical sample,21066
+2,H10,COVRNA0056,29.8430233,Clinical sample,388
+2,H11,COVRNA0071,Undetermined,Clinical sample,0
+2,H12,COVRNA0108,28.1817646,Clinical sample,1469
+2,H13,Water,Undetermined,Water,0
+2,H14,COVRNA0178,Undetermined,Clinical sample,0
+2,H15,COVRNA0232,Undetermined,Clinical sample,0
+2,H16,COVRNA0113,33.12394714,Clinical sample,53
+2,H17,ZYPOS015,Undetermined,Control,0
+2,H18,ZYPOS012,Undetermined,Control,0
+2,H19,OGPOS015,Undetermined,Control,0
+2,H20,OGPOS012,Undetermined,Control,0
+2,H21,sgRNA_1000,28.93901825,sgRNA standard,1057
+2,H22,sgRNA_1000,28.96950531,sgRNA standard,1057
+2,H23,100,Undetermined,ATCC standards,0
+2,H24,100,Undetermined,ATCC standards,0
+2,I1,COVRNA0254,Undetermined,Clinical sample,0
+2,I2,COVRNA0024,36.47755432,Clinical sample,7
+2,I3,COVRNA0308,Undetermined,Clinical sample,0
+2,I4,COVRNA0223,Undetermined,Clinical sample,0
+2,I5,COVRNA0379,35.47603989,Clinical sample,14
+2,I6,COVRNA0046,Undetermined,Clinical sample,0
+2,I7,COVRNA0104,33.43746948,Clinical sample,53
+2,I8,COVRNA0346,Undetermined,Clinical sample,0
+2,I9,COVRNA0145,Undetermined,Clinical sample,0
+2,I10,COVRNA0063,Undetermined,Clinical sample,0
+2,I11,COVRNA0322,Undetermined,Clinical sample,0
+2,I12,COVRNA0149,33.59114456,Clinical sample,27
+2,I13,COVRNA0236,Undetermined,Clinical sample,0
+2,I14,COVRNA0297,Undetermined,Clinical sample,0
+2,I15,COVRNA0132,Undetermined,Clinical sample,0
+2,I16,COVRNA0027,31.57041931,Clinical sample,102
+2,I17,COVRNA0072,Undetermined,Clinical sample,0
+2,I18,COVRNA0231,Undetermined,Clinical sample,0
+2,I19,Water,Undetermined,Water,0
+2,I20,COVRNA0269,Undetermined,Clinical sample,0
+2,I21,sgRNA_100,32.44804001,sgRNA standard,143
+2,I22,sgRNA_100,31.74320984,sgRNA standard,143
+2,I23,10,Undetermined,ATCC standards,0
+2,I24,10,Undetermined,ATCC standards,0
+2,J1,COVRNA0254,Undetermined,Clinical sample,0
+2,J2,COVRNA0024,Undetermined,Clinical sample,0
+2,J3,COVRNA0308,Undetermined,Clinical sample,0
+2,J4,COVRNA0223,Undetermined,Clinical sample,0
+2,J5,COVRNA0379,35.74486542,Clinical sample,7
+2,J6,COVRNA0046,Undetermined,Clinical sample,0
+2,J7,COVRNA0104,35.3889389,Clinical sample,14
+2,J8,COVRNA0346,Undetermined,Clinical sample,0
+2,J9,COVRNA0145,Undetermined,Clinical sample,0
+2,J10,COVRNA0063,Undetermined,Clinical sample,0
+2,J11,COVRNA0322,Undetermined,Clinical sample,0
+2,J12,COVRNA0149,33.94454956,Clinical sample,27
+2,J13,COVRNA0236,Undetermined,Clinical sample,0
+2,J14,COVRNA0297,Undetermined,Clinical sample,0
+2,J15,COVRNA0132,Undetermined,Clinical sample,0
+2,J16,COVRNA0027,31.99793434,Clinical sample,102
+2,J17,COVRNA0072,Undetermined,Clinical sample,0
+2,J18,COVRNA0231,Undetermined,Clinical sample,0
+2,J19,Water,Undetermined,Water,0
+2,J20,COVRNA0269,Undetermined,Clinical sample,0
+2,J21,sgRNA_100,33.10077286,sgRNA standard,74
+2,J22,sgRNA_100,31.65736961,sgRNA standard,143
+2,J23,10,Undetermined,ATCC standards,0
+2,J24,10,Undetermined,ATCC standards,0
+2,K1,COVRNA0253,Undetermined,Clinical sample,0
+2,K2,COVRNA0123,30.65957642,Clinical sample,199
+2,K3,COVRNA0352,Undetermined,Clinical sample,0
+2,K4,COVRNA0101,Undetermined,Clinical sample,0
+2,K5,Water,Undetermined,Water,0
+2,K6,COVRNA0363,Undetermined,Clinical sample,0
+2,K7,Water,Undetermined,Water,0
+2,K8,COVRNA0029,Undetermined,Clinical sample,0
+2,K9,COVRNA0143,32.99184418,Clinical sample,53
+2,K10,COVRNA0019,Undetermined,Clinical sample,0
+2,K11,COVRNA0362,37.59037781,Clinical sample,0
+2,K12,COVRNA0228,Undetermined,Clinical sample,0
+2,K13,COVRNA0066,Undetermined,Clinical sample,0
+2,K14,COVRNA0100,34.98774719,Clinical sample,14
+2,K15,Water,Undetermined,Water,0
+2,K16,COVRNA0112,29.94672394,Clinical sample,388
+2,K17,ZYPOS016,Undetermined,Control,0
+2,K18,ZYPOS013,Undetermined,Control,0
+2,K19,OGPOS016,Undetermined,Control,0
+2,K20,OGPOS013,Undetermined,Control,0
+2,K21,sgRNA_10,35.77422714,sgRNA standard,10
+2,K22,sgRNA_10,35.9141922,sgRNA standard,10
+2,K23,1,Undetermined,ATCC standards,0
+2,K24,1,Undetermined,ATCC standards,0
+2,L1,COVRNA0253,Undetermined,Clinical sample,0
+2,L2,COVRNA0123,30.25567055,Clinical sample,388
+2,L3,COVRNA0352,Undetermined,Clinical sample,0
+2,L4,COVRNA0101,37.9151268,Clinical sample,0
+2,L5,Water,Undetermined,Water,0
+2,L6,COVRNA0363,Undetermined,Clinical sample,0
+2,L7,Water,Undetermined,Water,0
+2,L8,COVRNA0029,Undetermined,Clinical sample,0
+2,L9,COVRNA0143,32.06732941,Clinical sample,102
+2,L10,COVRNA0019,Undetermined,Clinical sample,0
+2,L11,COVRNA0362,Undetermined,Clinical sample,0
+2,L12,COVRNA0228,Undetermined,Clinical sample,0
+2,L13,COVRNA0066,Undetermined,Clinical sample,0
+2,L14,COVRNA0100,35.84488678,Clinical sample,7
+2,L15,Water,Undetermined,Water,0
+2,L16,COVRNA0112,29.97475624,Clinical sample,388
+2,L17,ZYPOS016,Undetermined,Control,0
+2,L18,ZYPOS013,Undetermined,Control,0
+2,L19,OGPOS016,Undetermined,Control,0
+2,L20,OGPOS013,Undetermined,Control,0
+2,L21,sgRNA_10,Undetermined,sgRNA standard,0
+2,L22,sgRNA_10,36.80997086,sgRNA standard,5
+2,L23,1,Undetermined,ATCC standards,0
+2,L24,1,Undetermined,ATCC standards,0
+2,M1,COVRNA0348,Undetermined,Clinical sample,0
+2,M2,COVRNA0021,Undetermined,Clinical sample,0
+2,M3,COVRNA0168,Undetermined,Clinical sample,0
+2,M4,COVRNA0054,Undetermined,Clinical sample,0
+2,M5,COVRNA0307,Undetermined,Clinical sample,0
+2,M6,Water,Undetermined,Water,0
+2,M7,COVRNA0028,Undetermined,Clinical sample,0
+2,M8,COVRNA0013,Undetermined,Clinical sample,0
+2,M9,COVRNA0064,Undetermined,Clinical sample,0
+2,M10,COVRNA0283,27.56016731,Clinical sample,1469
+2,M11,COVRNA0300,35.95910263,Clinical sample,7
+2,M12,COVRNA0050,Undetermined,Clinical sample,0
+2,M13,COVRNA0078,Undetermined,Clinical sample,0
+2,M14,COVRNA0053,28.37877846,Clinical sample,1469
+2,M15,COVRNA0088,30.63836288,Clinical sample,199
+2,M16,COVRNA0298,30.23208427,Clinical sample,388
+2,M17,COVRNA0233,Undetermined,Clinical sample,0
+2,M18,COVRNA0068,Undetermined,Clinical sample,0
+2,M19,COVRNA0070,Undetermined,Clinical sample,0
+2,M20,COVRNA0058,Undetermined,Clinical sample,0
+2,M21,sgRNA_1,Undetermined,sgRNA standard,0
+2,M22,sgRNA_1,Undetermined,sgRNA standard,0
+2,M23,0,Undetermined,ATCC standards,0
+2,M24,0,Undetermined,ATCC standards,0
+2,N1,COVRNA0348,Undetermined,Clinical sample,0
+2,N2,COVRNA0021,Undetermined,Clinical sample,0
+2,N3,COVRNA0168,Undetermined,Clinical sample,0
+2,N4,COVRNA0054,38.25661469,Clinical sample,0
+2,N5,COVRNA0307,Undetermined,Clinical sample,0
+2,N6,Water,Undetermined,Water,0
+2,N7,COVRNA0028,Undetermined,Clinical sample,0
+2,N8,COVRNA0013,Undetermined,Clinical sample,0
+2,N9,COVRNA0064,Undetermined,Clinical sample,0
+2,N10,COVRNA0283,27.85977364,Clinical sample,1469
+2,N11,COVRNA0300,34.7869873,Clinical sample,14
+2,N12,COVRNA0050,Undetermined,Clinical sample,0
+2,N13,COVRNA0078,Undetermined,Clinical sample,0
+2,N14,COVRNA0053,28.29581833,Clinical sample,1469
+2,N15,COVRNA0088,30.91110039,Clinical sample,199
+2,N16,COVRNA0298,30.1843586,Clinical sample,388
+2,N17,COVRNA0233,Undetermined,Clinical sample,0
+2,N18,COVRNA0068,Undetermined,Clinical sample,0
+2,N19,COVRNA0070,Undetermined,Clinical sample,0
+2,N20,COVRNA0058,Undetermined,Clinical sample,0
+2,N21,sgRNA_1,Undetermined,sgRNA standard,0
+2,N22,sgRNA_1,Undetermined,sgRNA standard,0
+2,N23,0,Undetermined,ATCC standards,0
+2,N24,0,Undetermined,ATCC standards,0
+2,O1,COVRNA0011,Undetermined,Clinical sample,0
+2,O2,COVRNA0166,Undetermined,Clinical sample,0
+2,O3,COVRNA0359,Undetermined,Clinical sample,0
+2,O4,COVRNA0130,34.97441864,Clinical sample,14
+2,O5,COVRNA0175,Undetermined,Clinical sample,0
+2,O6,COVRNA0366,Undetermined,Clinical sample,0
+2,O7,COVRNA0141,28.15205765,Clinical sample,1469
+2,O8,COVRNA0079,Undetermined,Clinical sample,0
+2,O9,COVRNA0317,Undetermined,Clinical sample,0
+2,O10,COVRNA0092,Undetermined,Clinical sample,0
+2,O11,COVRNA0270,40.92987823,Clinical sample,0
+2,O12,COVRNA0315,Undetermined,Clinical sample,0
+2,O13,COVRNA0311,Undetermined,Clinical sample,0
+2,O14,COVRNA0313,36.31830978,Clinical sample,7
+2,O15,COVRNA0186,Undetermined,Clinical sample,0
+2,O16,COVRNA0084,Undetermined,Clinical sample,0
+2,O17,ZYPOS010,Undetermined,Control,0
+2,O18,ZYPOS017,Undetermined,Control,0
+2,O19,OGPOS010,Undetermined,Control,0
+2,O20,OGPOS017,Undetermined,Control,0
+2,O21,sgRNA_0.1,Undetermined,sgRNA standard,0
+2,O22,sgRNA_0.1,Undetermined,sgRNA standard,0
+2,O23,H2O,Undetermined,Water,0
+2,O24,H2O,Undetermined,Water,0
+2,P1,COVRNA0011,Undetermined,Clinical sample,0
+2,P2,COVRNA0166,Undetermined,Clinical sample,0
+2,P3,COVRNA0359,Undetermined,Clinical sample,0
+2,P4,COVRNA0130,32.67289352,Clinical sample,53
+2,P5,COVRNA0175,Undetermined,Clinical sample,0
+2,P6,COVRNA0366,Undetermined,Clinical sample,0
+2,P7,COVRNA0141,28.13227272,Clinical sample,1469
+2,P8,COVRNA0079,Undetermined,Clinical sample,0
+2,P9,COVRNA0317,Undetermined,Clinical sample,0
+2,P10,COVRNA0092,Undetermined,Clinical sample,0
+2,P11,COVRNA0270,38.48441696,Clinical sample,0
+2,P12,COVRNA0315,Undetermined,Clinical sample,0
+2,P13,COVRNA0311,Undetermined,Clinical sample,0
+2,P14,COVRNA0313,Undetermined,Clinical sample,0
+2,P15,COVRNA0186,Undetermined,Clinical sample,0
+2,P16,COVRNA0084,Undetermined,Clinical sample,0
+2,P17,ZYPOS010,Undetermined,Control,0
+2,P18,ZYPOS017,Undetermined,Control,0
+2,P19,OGPOS010,Undetermined,Control,0
+2,P20,OGPOS017,Undetermined,Control,0
+2,P21,sgRNA_0.1,Undetermined,sgRNA standard,0
+2,P22,sgRNA_0.1,Undetermined,sgRNA standard,0
+2,P23,H2O,Undetermined,Water,0
+2,P24,H2O,Undetermined,Water,0
+3,A1,COVRNA0263,Undetermined,Clinical sample,0
+3,A2,COVRNA0306,Undetermined,Clinical sample,0
+3,A3,COVRNA0012,Undetermined,Clinical sample,0
+3,A4,COVRNA0368,Undetermined,Clinical sample,0
+3,A5,COVRNA0274,Undetermined,Clinical sample,0
+3,A6,COVRNA0043,Undetermined,Clinical sample,0
+3,A7,COVRNA0115,31.66332436,Clinical sample,96
+3,A8,COVRNA0099,37.24869919,Clinical sample,2
+3,A9,COVRNA0087,34.74746323,Clinical sample,10
+3,A10,COVRNA0086,30.54863548,Clinical sample,202
+3,A11,COVRNA0049,Undetermined,Clinical sample,0
+3,A12,COVRNA0332,Undetermined,Clinical sample,0
+3,A13,COVRNA0035,Undetermined,Clinical sample,0
+3,A14,COVRNA0262,Undetermined,Clinical sample,0
+3,A15,COVRNA0020,Undetermined,Clinical sample,0
+3,A16,COVRNA0229,Undetermined,Clinical sample,0
+3,A17,COVRNA0107,Undetermined,Clinical sample,0
+3,A18,COVRNA0234,Undetermined,Clinical sample,0
+3,A19,COVRNA0105,32.12865829,Clinical sample,96
+3,A20,COVRNA0378,Undetermined,Clinical sample,0
+3,A21,sgRNA_1000000,20.43501472,sgRNA standard,994640
+3,A22,sgRNA_1000000,20.30759811,sgRNA standard,994640
+3,A23,H2O,Undetermined,Water,0
+3,A24,H2O,Undetermined,Water,0
+3,B1,COVRNA0263,Undetermined,Clinical sample,0
+3,B2,COVRNA0306,Undetermined,Clinical sample,0
+3,B3,COVRNA0012,Undetermined,Clinical sample,0
+3,B4,COVRNA0368,Undetermined,Clinical sample,0
+3,B5,COVRNA0274,Undetermined,Clinical sample,0
+3,B6,COVRNA0043,Undetermined,Clinical sample,0
+3,B7,COVRNA0115,32.26531219,Clinical sample,96
+3,B8,COVRNA0099,35.3600769,Clinical sample,10
+3,B9,COVRNA0087,34.17815781,Clinical sample,22
+3,B10,COVRNA0086,30.77952576,Clinical sample,202
+3,B11,COVRNA0049,Undetermined,Clinical sample,0
+3,B12,COVRNA0332,Undetermined,Clinical sample,0
+3,B13,COVRNA0035,Undetermined,Clinical sample,0
+3,B14,COVRNA0262,Undetermined,Clinical sample,0
+3,B15,COVRNA0020,Undetermined,Clinical sample,0
+3,B16,COVRNA0229,Undetermined,Clinical sample,0
+3,B17,COVRNA0107,Undetermined,Clinical sample,0
+3,B18,COVRNA0234,Undetermined,Clinical sample,0
+3,B19,COVRNA0105,31.90646935,Clinical sample,96
+3,B20,COVRNA0378,Undetermined,Clinical sample,0
+3,B21,sgRNA_1000000,20.13046455,sgRNA standard,994640
+3,B22,sgRNA_1000000,20.48650551,sgRNA standard,994640
+3,B23,H2O,Undetermined,Water,0
+3,B24,H2O,Undetermined,Water,0
+3,C1,COVRNA0290,Undetermined,Clinical sample,0
+3,C2,COVRNA0048,Undetermined,Clinical sample,0
+3,C3,COVRNA0164,Undetermined,Clinical sample,0
+3,C4,COVRNA0005,26.17923355,Clinical sample,8273
+3,C5,COVRNA0205,Undetermined,Clinical sample,0
+3,C6,COVRNA0040,32.29156113,Clinical sample,96
+3,C7,COVRNA0222,Undetermined,Clinical sample,0
+3,C8,COVRNA0136,38.22272491,Clinical sample,0
+3,C9,COVRNA0227,Undetermined,Clinical sample,0
+3,C10,COVRNA0158,38.99251556,Clinical sample,0
+3,C11,COVRNA0208,Undetermined,Clinical sample,0
+3,C12,COVRNA0010,Undetermined,Clinical sample,0
+3,C13,COVRNA0006,37.6806488,Clinical sample,0
+3,C14,COVRNA0017,34.34706116,Clinical sample,22
+3,C15,COVRNA0303,Undetermined,Clinical sample,0
+3,C16,COVRNA0047,Undetermined,Clinical sample,0
+3,C17,ZYPOS018,Undetermined,Control,0
+3,C18,ZYPOS021,Undetermined,Control,0
+3,C19,OGPOS018,Undetermined,Control,0
+3,C20,OGPOS021,Undetermined,Control,0
+3,C21,sgRNA_100000,23.296978,sgRNA standard,107330
+3,C22,sgRNA_100000,22.94037628,sgRNA standard,107330
+3,C23,10000,Undetermined,ATCC standards,0
+3,C24,10000,Undetermined,ATCC standards,0
+3,D1,COVRNA0290,Undetermined,Clinical sample,0
+3,D2,COVRNA0048,Undetermined,Clinical sample,0
+3,D3,COVRNA0164,Undetermined,Clinical sample,0
+3,D4,COVRNA0005,26.06377602,Clinical sample,8273
+3,D5,COVRNA0205,Undetermined,Clinical sample,0
+3,D6,COVRNA0040,32.47176743,Clinical sample,96
+3,D7,COVRNA0222,Undetermined,Clinical sample,0
+3,D8,COVRNA0136,Undetermined,Clinical sample,0
+3,D9,COVRNA0227,Undetermined,Clinical sample,0
+3,D10,COVRNA0158,Undetermined,Clinical sample,0
+3,D11,COVRNA0208,13.94148731,Clinical sample,61014045
+3,D12,COVRNA0010,Undetermined,Clinical sample,0
+3,D13,COVRNA0006,Undetermined,Clinical sample,0
+3,D14,COVRNA0017,35.26594925,Clinical sample,10
+3,D15,COVRNA0303,39.87264252,Clinical sample,0
+3,D16,COVRNA0047,Undetermined,Clinical sample,0
+3,D17,ZYPOS018,Undetermined,Control,0
+3,D18,ZYPOS021,Undetermined,Control,0
+3,D19,OGPOS018,Undetermined,Control,0
+3,D20,OGPOS021,Undetermined,Control,0
+3,D21,sgRNA_100000,22.87268829,sgRNA standard,107330
+3,D22,sgRNA_100000,23.21388435,sgRNA standard,107330
+3,D23,10000,Undetermined,ATCC standards,0
+3,D24,10000,Undetermined,ATCC standards,0
+3,E1,COVRNA0246,34.12434769,Clinical sample,22
+3,E2,COVRNA0218,Undetermined,Clinical sample,0
+3,E3,COVRNA0139,Undetermined,Clinical sample,0
+3,E4,COVRNA0110,37.6791954,Clinical sample,0
+3,E5,COVRNA0219,37.57423401,Clinical sample,0
+3,E6,COVRNA0210,Undetermined,Clinical sample,0
+3,E7,COVRNA0279,Undetermined,Clinical sample,0
+3,E8,COVRNA0195,35.92068481,Clinical sample,5
+3,E9,COVRNA0008,Undetermined,Clinical sample,0
+3,E10,COVRNA0342,39.47431946,Clinical sample,0
+3,E11,COVRNA0324,Undetermined,Clinical sample,0
+3,E12,COVRNA0319,Undetermined,Clinical sample,0
+3,E13,COVRNA0177,Undetermined,Clinical sample,0
+3,E14,COVRNA0371,36.13070679,Clinical sample,5
+3,E15,COVRNA0242,34.74924088,Clinical sample,10
+3,E16,COVRNA0176,Undetermined,Clinical sample,0
+3,E17,COVRNA0151,Undetermined,Clinical sample,0
+3,E18,COVRNA0344,33.85095978,Clinical sample,22
+3,E19,COVRNA0052,Undetermined,Clinical sample,0
+3,E20,COVRNA0192,Undetermined,Clinical sample,0
+3,E21,sgRNA_10000,26.2076931,sgRNA standard,11582
+3,E22,sgRNA_10000,26.12738609,sgRNA standard,11582
+3,E23,1000,Undetermined,ATCC standards,0
+3,E24,1000,Undetermined,ATCC standards,0
+3,F1,COVRNA0246,Undetermined,Clinical sample,0
+3,F2,COVRNA0218,Undetermined,Clinical sample,0
+3,F3,COVRNA0139,Undetermined,Clinical sample,0
+3,F4,COVRNA0110,39.59263992,Clinical sample,0
+3,F5,COVRNA0219,37.84246826,Clinical sample,0
+3,F6,COVRNA0210,Undetermined,Clinical sample,0
+3,F7,COVRNA0279,Undetermined,Clinical sample,0
+3,F8,COVRNA0195,35.19636536,Clinical sample,10
+3,F9,COVRNA0008,Undetermined,Clinical sample,0
+3,F10,COVRNA0342,36.62129593,Clinical sample,2
+3,F11,COVRNA0324,Undetermined,Clinical sample,0
+3,F12,COVRNA0319,Undetermined,Clinical sample,0
+3,F13,COVRNA0177,Undetermined,Clinical sample,0
+3,F14,COVRNA0371,36.57826996,Clinical sample,2
+3,F15,COVRNA0242,33.91391754,Clinical sample,22
+3,F16,COVRNA0176,Undetermined,Clinical sample,0
+3,F17,COVRNA0151,Undetermined,Clinical sample,0
+3,F18,COVRNA0344,33.45348358,Clinical sample,46
+3,F19,COVRNA0052,Undetermined,Clinical sample,0
+3,F20,COVRNA0192,Undetermined,Clinical sample,0
+3,F21,sgRNA_10000,26.19621086,sgRNA standard,11582
+3,F22,sgRNA_10000,25.94058228,sgRNA standard,11582
+3,F23,1000,Undetermined,ATCC standards,0
+3,F24,1000,Undetermined,ATCC standards,0
+3,G1,COVRNA0142,34.97612762,Clinical sample,10
+3,G2,COVRNA0318,Undetermined,Clinical sample,0
+3,G3,COVRNA0247,Undetermined,Clinical sample,0
+3,G4,COVRNA0179,Undetermined,Clinical sample,0
+3,G5,COVRNA0080,Undetermined,Clinical sample,0
+3,G6,COVRNA0251,31.20938492,Clinical sample,202
+3,G7,COVRNA0111,Undetermined,Clinical sample,0
+3,G8,COVRNA0215,Undetermined,Clinical sample,0
+3,G9,COVRNA0351,Undetermined,Clinical sample,0
+3,G10,ZYPOS022,Undetermined,Control,0
+3,G11,COVRNA0275,31.29314232,Clinical sample,202
+3,G12,OGPOS022,Undetermined,Control,0
+3,G13,COVRNA0235,Undetermined,Clinical sample,0
+3,G14,Water,Undetermined,Water,0
+3,G15,COVRNA0119,Undetermined,Clinical sample,0
+3,G16,Water,Undetermined,Water,0
+3,G17,ZYPOS014,Undetermined,Control,0
+3,G18,Water,Undetermined,Water,0
+3,G19,OGPOS014,Undetermined,Control,0
+3,G20,Water,Undetermined,Water,0
+3,G21,sgRNA_1000,29.55280685,sgRNA standard,595
+3,G22,sgRNA_1000,29.37062073,sgRNA standard,1250
+3,G23,100,Undetermined,ATCC standards,0
+3,G24,100,Undetermined,ATCC standards,0
+3,H1,COVRNA0142,34.06602097,Clinical sample,22
+3,H2,COVRNA0318,Undetermined,Clinical sample,0
+3,H3,COVRNA0247,Undetermined,Clinical sample,0
+3,H4,COVRNA0179,Undetermined,Clinical sample,0
+3,H5,COVRNA0080,Undetermined,Clinical sample,0
+3,H6,COVRNA0251,31.10135841,Clinical sample,202
+3,H7,COVRNA0111,Undetermined,Clinical sample,0
+3,H8,COVRNA0215,Undetermined,Clinical sample,0
+3,H9,COVRNA0351,Undetermined,Clinical sample,0
+3,H10,ZYPOS022,Undetermined,Control,0
+3,H11,COVRNA0275,31.11384392,Clinical sample,202
+3,H12,OGPOS022,Undetermined,Control,0
+3,H13,COVRNA0235,Undetermined,Clinical sample,0
+3,H14,Water,Undetermined,Water,0
+3,H15,COVRNA0119,Undetermined,Clinical sample,0
+3,H16,Water,Undetermined,Water,0
+3,H17,ZYPOS014,Undetermined,Control,0
+3,H18,Water,Undetermined,Water,0
+3,H19,OGPOS014,Undetermined,Control,0
+3,H20,Water,Undetermined,Water,0
+3,H21,sgRNA_1000,29.05712509,sgRNA standard,1250
+3,H22,sgRNA_1000,29.05789566,sgRNA standard,1250
+3,H23,100,Undetermined,ATCC standards,0
+3,H24,100,Undetermined,ATCC standards,0
+3,I1,COVRNA0291,Undetermined,Clinical sample,0
+3,I2,COVRNA0382,Undetermined,Clinical sample,0
+3,I3,COVRNA0189,36.56848526,Clinical sample,2
+3,I4,COVRNA0383,Undetermined,Clinical sample,0
+3,I5,COVRNA0277,33.60509872,Clinical sample,22
+3,I6,COVRNA0384,Undetermined,Clinical sample,0
+3,I7,COVRNA0244,37.9853363,Clinical sample,0
+3,I8,COVRNA0385,Undetermined,Clinical sample,0
+3,I9,COVRNA0369,Undetermined,Clinical sample,0
+3,I10,COVRNA0386,Undetermined,Clinical sample,0
+3,I11,COVRNA0267,Undetermined,Clinical sample,0
+3,I12,COVRNA0387,Undetermined,Clinical sample,0
+3,I13,COVRNA0357,Undetermined,Clinical sample,0
+3,I14,COVRNA0388,Undetermined,Clinical sample,0
+3,I15,COVRNA0276,36.02623367,Clinical sample,5
+3,I16,COVRNA0389,Undetermined,Clinical sample,0
+3,I17,COVRNA0355,Undetermined,Clinical sample,0
+3,I18,COVRNA0390,Undetermined,Clinical sample,0
+3,I19,COVRNA0016,37.68138504,Clinical sample,0
+3,I20,COVRNA0391,Undetermined,Clinical sample,0
+3,I21,sgRNA_100,33.52490234,sgRNA standard,31
+3,I22,sgRNA_100,33.48828888,sgRNA standard,64
+3,I23,10,Undetermined,ATCC standards,0
+3,I24,10,Undetermined,ATCC standards,0
+3,J1,COVRNA0291,Undetermined,Clinical sample,0
+3,J2,COVRNA0382,Undetermined,Clinical sample,0
+3,J3,COVRNA0189,37.07406998,Clinical sample,2
+3,J4,COVRNA0383,Undetermined,Clinical sample,0
+3,J5,COVRNA0277,32.73343658,Clinical sample,46
+3,J6,COVRNA0384,Undetermined,Clinical sample,0
+3,J7,COVRNA0244,Undetermined,Clinical sample,0
+3,J8,COVRNA0385,Undetermined,Clinical sample,0
+3,J9,COVRNA0369,Undetermined,Clinical sample,0
+3,J10,COVRNA0386,Undetermined,Clinical sample,0
+3,J11,COVRNA0267,Undetermined,Clinical sample,0
+3,J12,COVRNA0387,Undetermined,Clinical sample,0
+3,J13,COVRNA0357,Undetermined,Clinical sample,0
+3,J14,COVRNA0388,Undetermined,Clinical sample,0
+3,J15,COVRNA0276,34.20124817,Clinical sample,22
+3,J16,COVRNA0389,Undetermined,Clinical sample,0
+3,J17,COVRNA0355,Undetermined,Clinical sample,0
+3,J18,COVRNA0390,Undetermined,Clinical sample,0
+3,J19,COVRNA0016,37.61355972,Clinical sample,0
+3,J20,COVRNA0391,Undetermined,Clinical sample,0
+3,J21,sgRNA_100,31.91629028,sgRNA standard,135
+3,J22,sgRNA_100,32.84355164,sgRNA standard,64
+3,J23,10,Undetermined,ATCC standards,0
+3,J24,10,Undetermined,ATCC standards,0
+3,K1,COVRNA0330,Undetermined,Clinical sample,0
+3,K2,COVRNA0392,Undetermined,Clinical sample,0
+3,K3,COVRNA0156,Undetermined,Clinical sample,0
+3,K4,COVRNA0393,Undetermined,Clinical sample,0
+3,K5,COVRNA0103,Undetermined,Clinical sample,0
+3,K6,COVRNA0394,39.27648926,Clinical sample,0
+3,K7,COVRNA0240,Undetermined,Clinical sample,0
+3,K8,COVRNA0395,41.05830383,Clinical sample,0
+3,K9,COVRNA0323,Undetermined,Clinical sample,0
+3,K10,COVRNA0396,Undetermined,Clinical sample,0
+3,K11,COVRNA0289,37.16940689,Clinical sample,2
+3,K12,COVRNA0397,32.74290085,Clinical sample,46
+3,K13,COVRNA0147,35.73149872,Clinical sample,5
+3,K14,COVRNA0398,30.00888634,Clinical sample,425
+3,K15,COVRNA0350,Undetermined,Clinical sample,0
+3,K16,COVRNA0399,Undetermined,Clinical sample,0
+3,K17,ZYPOS019,Undetermined,Control,0
+3,K18,ZYPOS023,Undetermined,Control,0
+3,K19,OGPOS019,Undetermined,Control,0
+3,K20,OGPOS023,34.61032867,Control,10
+3,K21,sgRNA_10,Undetermined,sgRNA standard,0
+3,K22,sgRNA_10,36.43793106,sgRNA standard,7
+3,K23,1,Undetermined,ATCC standards,0
+3,K24,1,Undetermined,ATCC standards,0
+3,L1,COVRNA0330,Undetermined,Clinical sample,0
+3,L2,COVRNA0392,Undetermined,Clinical sample,0
+3,L3,COVRNA0156,Undetermined,Clinical sample,0
+3,L4,COVRNA0393,38.33953476,Clinical sample,0
+3,L5,COVRNA0103,Undetermined,Clinical sample,0
+3,L6,COVRNA0394,34.03126526,Clinical sample,22
+3,L7,COVRNA0240,Undetermined,Clinical sample,0
+3,L8,COVRNA0395,Undetermined,Clinical sample,0
+3,L9,COVRNA0323,Undetermined,Clinical sample,0
+3,L10,COVRNA0396,Undetermined,Clinical sample,0
+3,L11,COVRNA0289,38.08080673,Clinical sample,0
+3,L12,COVRNA0397,33.92250061,Clinical sample,22
+3,L13,COVRNA0147,35.00582123,Clinical sample,10
+3,L14,COVRNA0398,30.27601242,Clinical sample,425
+3,L15,COVRNA0350,Undetermined,Clinical sample,0
+3,L16,COVRNA0399,Undetermined,Clinical sample,0
+3,L17,ZYPOS019,Undetermined,Control,0
+3,L18,ZYPOS023,Undetermined,Control,0
+3,L19,OGPOS019,Undetermined,Control,0
+3,L20,OGPOS023,35.41753387,Control,10
+3,L21,sgRNA_10,Undetermined,sgRNA standard,0
+3,L22,sgRNA_10,36.43114853,sgRNA standard,7
+3,L23,1,Undetermined,ATCC standards,0
+3,L24,1,Undetermined,ATCC standards,0
+3,M1,COVRNA0098,32.15677643,Clinical sample,96
+3,M2,COVRNA0400,Undetermined,Clinical sample,0
+3,M3,Water,Undetermined,Water,0
+3,M4,COVRNA0401,Undetermined,Clinical sample,0
+3,M5,COVRNA0174,Undetermined,Clinical sample,0
+3,M6,COVRNA0424,Undetermined,Clinical sample,0
+3,M7,COVRNA0061,29.18998337,Clinical sample,893
+3,M8,COVRNA0425,Undetermined,Clinical sample,0
+3,M9,Water,Undetermined,Water,0
+3,M10,COVRNA0426,Undetermined,Clinical sample,0
+3,M11,COVRNA0302,Undetermined,Clinical sample,0
+3,M12,COVRNA0427,Undetermined,Clinical sample,0
+3,M13,COVRNA0341,Undetermined,Clinical sample,0
+3,M14,COVRNA0428,Undetermined,Clinical sample,0
+3,M15,COVRNA0152,27.4678688,Clinical sample,3938
+3,M16,COVRNA0429,Undetermined,Clinical sample,0
+3,M17,COVRNA0169,Undetermined,Clinical sample,0
+3,M18,COVRNA0430,Undetermined,Clinical sample,0
+3,M19,COVRNA0272,Undetermined,Clinical sample,0
+3,M20,COVRNA0431,Undetermined,Clinical sample,0
+3,M21,sgRNA_1,36.352314,sgRNA standard,7
+3,M22,sgRNA_1,Undetermined,sgRNA standard,0
+3,M23,0,Undetermined,ATCC standards,0
+3,M24,0,Undetermined,ATCC standards,0
+3,N1,COVRNA0098,32.36382675,Clinical sample,96
+3,N2,COVRNA0400,Undetermined,Clinical sample,0
+3,N3,Water,Undetermined,Water,0
+3,N4,COVRNA0401,Undetermined,Clinical sample,0
+3,N5,COVRNA0174,Undetermined,Clinical sample,0
+3,N6,COVRNA0424,Undetermined,Clinical sample,0
+3,N7,COVRNA0061,29.56707573,Clinical sample,425
+3,N8,COVRNA0425,Undetermined,Clinical sample,0
+3,N9,Water,Undetermined,Water,0
+3,N10,COVRNA0426,Undetermined,Clinical sample,0
+3,N11,COVRNA0302,Undetermined,Clinical sample,0
+3,N12,COVRNA0427,Undetermined,Clinical sample,0
+3,N13,COVRNA0341,Undetermined,Clinical sample,0
+3,N14,COVRNA0428,Undetermined,Clinical sample,0
+3,N15,COVRNA0152,27.45459366,Clinical sample,3938
+3,N16,COVRNA0429,Undetermined,Clinical sample,0
+3,N17,COVRNA0169,Undetermined,Clinical sample,0
+3,N18,COVRNA0430,Undetermined,Clinical sample,0
+3,N19,COVRNA0272,Undetermined,Clinical sample,0
+3,N20,COVRNA0431,Undetermined,Clinical sample,0
+3,N21,sgRNA_1,36.54818726,sgRNA standard,3
+3,N22,sgRNA_1,Undetermined,sgRNA standard,0
+3,N23,0,Undetermined,ATCC standards,0
+3,N24,0,Undetermined,ATCC standards,0
+3,O1,COVRNA0154,35.84155273,Clinical sample,5
+3,O2,COVRNA0432,Undetermined,Clinical sample,0
+3,O3,COVRNA0380,Undetermined,Clinical sample,0
+3,O4,COVRNA0433,Undetermined,Clinical sample,0
+3,O5,COVRNA0125,Undetermined,Clinical sample,0
+3,O6,COVRNA0434,Undetermined,Clinical sample,0
+3,O7,COVRNA0025,30.40309906,Clinical sample,425
+3,O8,COVRNA0435,Undetermined,Clinical sample,0
+3,O9,COVRNA0093,Undetermined,Clinical sample,0
+3,O10,COVRNA0436,Undetermined,Clinical sample,0
+3,O11,COVRNA0329,38.56841278,Clinical sample,0
+3,O12,COVRNA0437,Undetermined,Clinical sample,0
+3,O13,COVRNA0340,Undetermined,Clinical sample,0
+3,O14,COVRNA0438,Undetermined,Clinical sample,0
+3,O15,COVRNA0367,Undetermined,Clinical sample,0
+3,O16,COVRNA0439,Undetermined,Clinical sample,0
+3,O17,ZYPOS020,Undetermined,Control,0
+3,O18,ZYPOS024,Undetermined,Control,0
+3,O19,OGPOS020,Undetermined,Control,0
+3,O20,OGPOS024,Undetermined,Control,0
+3,O21,sgRNA_0.1,Undetermined,sgRNA standard,0
+3,O22,sgRNA_0.1,Undetermined,sgRNA standard,0
+3,O23,H2O,Undetermined,Water,0
+3,O24,H2O,Undetermined,Water,0
+3,P1,COVRNA0154,34.65177917,Clinical sample,10
+3,P2,COVRNA0432,Undetermined,Clinical sample,0
+3,P3,COVRNA0380,Undetermined,Clinical sample,0
+3,P4,COVRNA0433,Undetermined,Clinical sample,0
+3,P5,COVRNA0125,Undetermined,Clinical sample,0
+3,P6,COVRNA0434,Undetermined,Clinical sample,0
+3,P7,COVRNA0025,30.49532318,Clinical sample,425
+3,P8,COVRNA0435,Undetermined,Clinical sample,0
+3,P9,COVRNA0093,Undetermined,Clinical sample,0
+3,P10,COVRNA0436,Undetermined,Clinical sample,0
+3,P11,COVRNA0329,38.49895477,Clinical sample,0
+3,P12,COVRNA0437,Undetermined,Clinical sample,0
+3,P13,COVRNA0340,Undetermined,Clinical sample,0
+3,P14,COVRNA0438,Undetermined,Clinical sample,0
+3,P15,COVRNA0367,Undetermined,Clinical sample,0
+3,P16,COVRNA0439,Undetermined,Clinical sample,0
+3,P17,ZYPOS020,Undetermined,Control,0
+3,P18,ZYPOS024,Undetermined,Control,0
+3,P19,OGPOS020,Undetermined,Control,0
+3,P20,OGPOS024,Undetermined,Control,0
+3,P21,sgRNA_0.1,Undetermined,sgRNA standard,0
+3,P22,sgRNA_0.1,Undetermined,sgRNA standard,0
+3,P23,H2O,Undetermined,Water,0
+3,P24,H2O,Undetermined,Water,0
+4,A1,COVRNA0440,Undetermined,Clinical sample,0
+4,A3,COVRNA0441,Undetermined,Clinical sample,0
+4,A5,COVRNA0442,39.9921875,Clinical sample,0
+4,A7,COVRNA0443,31.98485947,Clinical sample,129
+4,A9,COVRNA0444,Undetermined,Clinical sample,0
+4,A11,COVRNA0445,Undetermined,Clinical sample,0
+4,A13,COVRNA0446,Undetermined,Clinical sample,0
+4,A15,COVRNA0447,Undetermined,Clinical sample,0
+4,A17,COVRNA0448,Undetermined,Clinical sample,0
+4,A19,COVRNA0449,38.44791031,Clinical sample,0
+4,A21,sgRNA_1000000,21.24098396,sgRNA standard,1367734
+4,A23,H2O,Undetermined,Water,0
+4,B1,COVRNA0440,Undetermined,Clinical sample,0
+4,B3,COVRNA0441,Undetermined,Clinical sample,0
+4,B5,COVRNA0442,40.16894531,Clinical sample,0
+4,B7,COVRNA0443,31.90652847,Clinical sample,129
+4,B9,COVRNA0444,Undetermined,Clinical sample,0
+4,B11,COVRNA0445,Undetermined,Clinical sample,0
+4,B13,COVRNA0446,Undetermined,Clinical sample,0
+4,B15,COVRNA0447,Undetermined,Clinical sample,0
+4,B17,COVRNA0448,Undetermined,Clinical sample,0
+4,B19,COVRNA0449,Undetermined,Clinical sample,0
+4,B21,sgRNA_1000000,21.91290092,sgRNA standard,607298
+4,B23,H2O,Undetermined,Water,0
+4,C1,COVRNA0450,Undetermined,Clinical sample,0
+4,C3,COVRNA0451,Undetermined,Clinical sample,0
+4,C5,COVRNA0452,Undetermined,Clinical sample,0
+4,C7,COVRNA0453,Undetermined,Clinical sample,0
+4,C9,COVRNA0454,Undetermined,Clinical sample,0
+4,C11,COVRNA0455,Undetermined,Clinical sample,0
+4,C13,COVRNA0456,Undetermined,Clinical sample,0
+4,C15,COVRNA0457,Undetermined,Clinical sample,0
+4,C17,H2O,Undetermined,Water,0
+4,C19,H2O,Undetermined,Water,0
+4,C21,sgRNA_100000,23.88515091,sgRNA standard,119729
+4,C23,10000,Undetermined,ATCC standards,0
+4,D1,COVRNA0450,37.71636581,Clinical sample,0
+4,D3,COVRNA0451,Undetermined,Clinical sample,0
+4,D5,COVRNA0452,Undetermined,Clinical sample,0
+4,D7,COVRNA0453,Undetermined,Clinical sample,0
+4,D9,COVRNA0454,Undetermined,Clinical sample,0
+4,D11,COVRNA0455,Undetermined,Clinical sample,0
+4,D13,COVRNA0456,Undetermined,Clinical sample,0
+4,D15,COVRNA0457,Undetermined,Clinical sample,0
+4,D17,H2O,Undetermined,Water,0
+4,D19,H2O,Undetermined,Water,0
+4,D21,sgRNA_100000,23.93984604,sgRNA standard,119729
+4,D23,10000,Undetermined,ATCC standards,0
+4,E1,COVRNA0458,Undetermined,Clinical sample,0
+4,E3,COVRNA0459,Undetermined,Clinical sample,0
+4,E5,COVRNA0460,Undetermined,Clinical sample,0
+4,E7,COVRNA0461,Undetermined,Clinical sample,0
+4,E9,COVRNA0462,Undetermined,Clinical sample,0
+4,E11,COVRNA0463,Undetermined,Clinical sample,0
+4,E13,COVRNA0464,Undetermined,Clinical sample,0
+4,E15,COVRNA0465,Undetermined,Clinical sample,0
+4,E17,COVRNA0402,Undetermined,Clinical sample,0
+4,E19,COVRNA0403,Undetermined,Clinical sample,0
+4,E21,sgRNA_10000,26.9522171,sgRNA standard,10481
+4,E23,1000,Undetermined,ATCC standards,0
+4,F1,COVRNA0458,Undetermined,Clinical sample,0
+4,F3,COVRNA0459,Undetermined,Clinical sample,0
+4,F5,COVRNA0460,Undetermined,Clinical sample,0
+4,F7,COVRNA0461,Undetermined,Clinical sample,0
+4,F9,COVRNA0462,Undetermined,Clinical sample,0
+4,F11,COVRNA0463,Undetermined,Clinical sample,0
+4,F13,COVRNA0464,Undetermined,Clinical sample,0
+4,F15,COVRNA0465,Undetermined,Clinical sample,0
+4,F17,COVRNA0402,Undetermined,Clinical sample,0
+4,F19,COVRNA0403,Undetermined,Clinical sample,0
+4,F21,sgRNA_10000,26.9531765,sgRNA standard,10481
+4,F23,1000,Undetermined,ATCC standards,0
+4,G1,COVRNA0404,Undetermined,Clinical sample,0
+4,G3,COVRNA0405,Undetermined,Clinical sample,0
+4,G5,COVRNA0406,37.67065048,Clinical sample,0
+4,G7,COVRNA0407,Undetermined,Clinical sample,0
+4,G9,COVRNA0408,Undetermined,Clinical sample,0
+4,G11,COVRNA0409,35.93399048,Clinical sample,0
+4,G13,COVRNA0410,Undetermined,Clinical sample,0
+4,G15,COVRNA0411,Undetermined,Clinical sample,0
+4,G17,ZYPOS025,Undetermined,Control,0
+4,G19,OGPOS025,Undetermined,Control,0
+4,G21,sgRNA_1000,29.68420601,sgRNA standard,917
+4,G23,100,Undetermined,ATCC standards,0
+4,H1,COVRNA0404,Undetermined,Clinical sample,0
+4,H3,COVRNA0405,Undetermined,Clinical sample,0
+4,H5,COVRNA0406,Undetermined,Clinical sample,0
+4,H7,COVRNA0407,Undetermined,Clinical sample,0
+4,H9,COVRNA0408,Undetermined,Clinical sample,0
+4,H11,COVRNA0409,35.8277626,Clinical sample,0
+4,H13,COVRNA0410,Undetermined,Clinical sample,0
+4,H15,COVRNA0411,Undetermined,Clinical sample,0
+4,H17,ZYPOS025,Undetermined,Control,0
+4,H19,OGPOS025,Undetermined,Control,0
+4,H21,sgRNA_1000,29.83036423,sgRNA standard,917
+4,H23,100,Undetermined,ATCC standards,0
+4,I1,COVRNA0412,Undetermined,Clinical sample,0
+4,I3,COVRNA0413,Undetermined,Clinical sample,0
+4,I5,COVRNA0414,Undetermined,Clinical sample,0
+4,I7,COVRNA0415,Undetermined,Clinical sample,0
+4,I9,COVRNA0416,Undetermined,Clinical sample,0
+4,I11,COVRNA0417,26.61501884,Clinical sample,7486
+4,I13,COVRNA0418,Undetermined,Clinical sample,0
+4,I15,COVRNA0419,Undetermined,Clinical sample,0
+4,I17,COVRNA0420,Undetermined,Clinical sample,0
+4,I19,COVRNA0421,Undetermined,Clinical sample,0
+4,I21,sgRNA_100,32.86768723,sgRNA standard,80
+4,I23,10,Undetermined,ATCC standards,0
+4,J1,COVRNA0412,Undetermined,Clinical sample,0
+4,J3,COVRNA0413,Undetermined,Clinical sample,0
+4,J5,COVRNA0414,Undetermined,Clinical sample,0
+4,J7,COVRNA0415,Undetermined,Clinical sample,0
+4,J9,COVRNA0416,Undetermined,Clinical sample,0
+4,J11,COVRNA0417,26.59508324,Clinical sample,7486
+4,J13,COVRNA0418,38.87503052,Clinical sample,0
+4,J15,COVRNA0419,Undetermined,Clinical sample,0
+4,J17,COVRNA0420,Undetermined,Clinical sample,0
+4,J19,COVRNA0421,Undetermined,Clinical sample,0
+4,J21,sgRNA_100,33.42160416,sgRNA standard,80
+4,J23,10,Undetermined,ATCC standards,0
+4,K1,COVRNA0422,Undetermined,Clinical sample,0
+4,K3,COVRNA0423,Undetermined,Clinical sample,0
+4,K21,sgRNA_10,Undetermined,sgRNA standard,0
+4,K23,1,Undetermined,ATCC standards,0
+4,L1,COVRNA0422,Undetermined,Clinical sample,0
+4,L3,COVRNA0423,Undetermined,Clinical sample,0
+4,L21,sgRNA_10,35.13788986,sgRNA standard,16
+4,L23,1,Undetermined,ATCC standards,0
+4,M21,sgRNA_1,Undetermined,sgRNA standard,0
+4,M23,0,Undetermined,ATCC standards,0
+4,N21,sgRNA_1,Undetermined,sgRNA standard,0
+4,N23,0,Undetermined,ATCC standards,0
+4,O21,sgRNA_0.1,Undetermined,sgRNA standard,0
+4,O23,H2O,Undetermined,Water,0
+4,P21,sgRNA_0.1,Undetermined,sgRNA standard,0
+4,P23,H2O,Undetermined,Water,0
+5,A1,COVRNA0466,Undetermined,Clinical sample,0
+5,A2,COVRNA0540,36.46591949,Clinical sample,8
+5,A3,COVRNA0474,Undetermined,Clinical sample,0
+5,A4,COVRNA0541,Undetermined,Clinical sample,0
+5,A5,COVRNA0482,37.35293579,Clinical sample,0
+5,A6,COVRNA0542,Undetermined,Clinical sample,0
+5,A7,COVRNA0488,Undetermined,Clinical sample,0
+5,A8,COVRNA0543,Undetermined,Clinical sample,0
+5,A9,COVRNA0496,Undetermined,Clinical sample,0
+5,A10,COVRNA0544,Undetermined,Clinical sample,0
+5,A11,ZYPOS028,Undetermined,Control,0
+5,A12,COVRNA0545,Undetermined,Clinical sample,0
+5,A13,COVRNA0510,Undetermined,Clinical sample,0
+5,A14,ZYPOS030,Undetermined,Control,0
+5,A15,COVRNA0518,Undetermined,Clinical sample,0
+5,A16,OGPOS030,Undetermined,Control,0
+5,A17,ZYPOS029,Undetermined,Control,0
+5,A18,COVRNA0546,Undetermined,Clinical sample,0
+5,A19,COVRNA0532,Undetermined,Clinical sample,0
+5,A20,COVRNA0547,Undetermined,Clinical sample,0
+5,A21,sgRNA_1000000,22.08805847,sgRNA standard,564213
+5,A22,sgRNA_1000000,Undetermined,sgRNA standard,0
+5,A23,H2O,Undetermined,Water,0
+5,A24,H2O,Undetermined,Water,0
+5,B1,COVRNA0466,Undetermined,Clinical sample,0
+5,B2,COVRNA0540,Undetermined,Clinical sample,0
+5,B3,COVRNA0474,Undetermined,Clinical sample,0
+5,B4,COVRNA0541,Undetermined,Clinical sample,0
+5,B5,COVRNA0482,36.8092804,Clinical sample,0
+5,B6,COVRNA0542,Undetermined,Clinical sample,0
+5,B7,COVRNA0488,Undetermined,Clinical sample,0
+5,B8,COVRNA0543,Undetermined,Clinical sample,0
+5,B9,COVRNA0496,Undetermined,Clinical sample,0
+5,B10,COVRNA0544,Undetermined,Clinical sample,0
+5,B11,ZYPOS028,Undetermined,Control,0
+5,B12,COVRNA0545,35.44568253,Clinical sample,17
+5,B13,COVRNA0510,Undetermined,Clinical sample,0
+5,B14,ZYPOS030,Undetermined,Control,0
+5,B15,COVRNA0518,Undetermined,Clinical sample,0
+5,B16,OGPOS030,Undetermined,Control,0
+5,B17,ZYPOS029,Undetermined,Control,0
+5,B18,COVRNA0546,Undetermined,Clinical sample,0
+5,B19,COVRNA0532,Undetermined,Clinical sample,0
+5,B20,COVRNA0547,Undetermined,Clinical sample,0
+5,B21,sgRNA_1000000,Undetermined,sgRNA standard,0
+5,B22,sgRNA_1000000,Undetermined,sgRNA standard,0
+5,B23,H2O,Undetermined,Water,0
+5,B24,H2O,Undetermined,Water,0
+5,C1,COVRNA0467,Undetermined,Clinical sample,0
+5,C2,COVRNA0548,Undetermined,Clinical sample,0
+5,C3,COVRNA0475,Undetermined,Clinical sample,0
+5,C4,COVRNA0549,Undetermined,Clinical sample,0
+5,C5,COVRNA0483,Undetermined,Clinical sample,0
+5,C6,COVRNA0550,Undetermined,Clinical sample,0
+5,C7,COVRNA0489,Undetermined,Clinical sample,0
+5,C8,COVRNA0551,Undetermined,Clinical sample,0
+5,C9,COVRNA0497,Undetermined,Clinical sample,0
+5,C10,COVRNA0552,Undetermined,Clinical sample,0
+5,C11,OGPOS028,Undetermined,Control,0
+5,C12,COVRNA0553,Undetermined,Clinical sample,0
+5,C13,COVRNA0511,Undetermined,Clinical sample,0
+5,C14,COVRNA0554,Undetermined,Clinical sample,0
+5,C15,COVRNA0519,Undetermined,Clinical sample,0
+5,C16,COVRNA0555,Undetermined,Clinical sample,0
+5,C17,OGPOS029,Undetermined,Control,0
+5,C18,COVRNA0556,Undetermined,Clinical sample,0
+5,C19,COVRNA0533,Undetermined,Clinical sample,0
+5,C20,COVRNA0557,Undetermined,Clinical sample,0
+5,C21,sgRNA_100000,24.02720261,sgRNA standard,119404
+5,C22,sgRNA_100000,24.21930885,sgRNA standard,119404
+5,C23,10000,Undetermined,ATCC standards,0
+5,C24,10000,Undetermined,ATCC standards,0
+5,D1,COVRNA0467,Undetermined,Clinical sample,0
+5,D2,COVRNA0548,Undetermined,Clinical sample,0
+5,D3,COVRNA0475,Undetermined,Clinical sample,0
+5,D4,COVRNA0549,Undetermined,Clinical sample,0
+5,D5,COVRNA0483,Undetermined,Clinical sample,0
+5,D6,COVRNA0550,Undetermined,Clinical sample,0
+5,D7,COVRNA0489,Undetermined,Clinical sample,0
+5,D8,COVRNA0551,Undetermined,Clinical sample,0
+5,D9,COVRNA0497,Undetermined,Clinical sample,0
+5,D10,COVRNA0552,Undetermined,Clinical sample,0
+5,D11,OGPOS028,Undetermined,Control,0
+5,D12,COVRNA0553,Undetermined,Clinical sample,0
+5,D13,COVRNA0511,Undetermined,Clinical sample,0
+5,D14,COVRNA0554,Undetermined,Clinical sample,0
+5,D15,COVRNA0519,Undetermined,Clinical sample,0
+5,D16,COVRNA0555,Undetermined,Clinical sample,0
+5,D17,OGPOS029,Undetermined,Control,0
+5,D18,COVRNA0556,Undetermined,Clinical sample,0
+5,D19,COVRNA0533,Undetermined,Clinical sample,0
+5,D20,COVRNA0557,Undetermined,Clinical sample,0
+5,D21,sgRNA_100000,24.1615715,sgRNA standard,119404
+5,D22,sgRNA_100000,24.66967201,sgRNA standard,54930
+5,D23,10000,Undetermined,ATCC standards,0
+5,D24,10000,Undetermined,ATCC standards,0
+5,E1,COVRNA0468,Undetermined,Clinical sample,0
+5,E2,COVRNA0558,Undetermined,Clinical sample,0
+5,E3,COVRNA0476,Undetermined,Clinical sample,0
+5,E4,COVRNA0559,Undetermined,Clinical sample,0
+5,E5,COVRNA0484,Undetermined,Clinical sample,0
+5,E6,COVRNA0560,Undetermined,Clinical sample,0
+5,E7,COVRNA0490,Undetermined,Clinical sample,0
+5,E8,COVRNA0561,Undetermined,Clinical sample,0
+5,E9,COVRNA0498,Undetermined,Clinical sample,0
+5,E10,COVRNA0562,Undetermined,Clinical sample,0
+5,E11,COVRNA0504,Undetermined,Clinical sample,0
+5,E12,COVRNA0563,Undetermined,Clinical sample,0
+5,E13,COVRNA0512,Undetermined,Clinical sample,0
+5,E14,COVRNA0564,Undetermined,Clinical sample,0
+5,E15,COVRNA0520,Undetermined,Clinical sample,0
+5,E16,COVRNA0565,Undetermined,Clinical sample,0
+5,E17,COVRNA0526,Undetermined,Clinical sample,0
+5,E18,ZYPOS031,Undetermined,Control,0
+5,E19,COVRNA0534,Undetermined,Clinical sample,0
+5,E20,OGPOS031,Undetermined,Control,0
+5,E21,sgRNA_10000,27.21931839,sgRNA standard,11625
+5,E22,sgRNA_10000,27.25227165,sgRNA standard,11625
+5,E23,1000,Undetermined,ATCC standards,0
+5,E24,1000,Undetermined,ATCC standards,0
+5,F1,COVRNA0468,Undetermined,Clinical sample,0
+5,F2,COVRNA0558,Undetermined,Clinical sample,0
+5,F3,COVRNA0476,Undetermined,Clinical sample,0
+5,F4,COVRNA0559,Undetermined,Clinical sample,0
+5,F5,COVRNA0484,Undetermined,Clinical sample,0
+5,F6,COVRNA0560,Undetermined,Clinical sample,0
+5,F7,COVRNA0490,Undetermined,Clinical sample,0
+5,F8,COVRNA0561,Undetermined,Clinical sample,0
+5,F9,COVRNA0498,Undetermined,Clinical sample,0
+5,F10,COVRNA0562,Undetermined,Clinical sample,0
+5,F11,COVRNA0504,Undetermined,Clinical sample,0
+5,F12,COVRNA0563,Undetermined,Clinical sample,0
+5,F13,COVRNA0512,Undetermined,Clinical sample,0
+5,F14,COVRNA0564,Undetermined,Clinical sample,0
+5,F15,COVRNA0520,Undetermined,Clinical sample,0
+5,F16,COVRNA0565,Undetermined,Clinical sample,0
+5,F17,COVRNA0526,Undetermined,Clinical sample,0
+5,F18,ZYPOS031,Undetermined,Control,0
+5,F19,COVRNA0534,Undetermined,Clinical sample,0
+5,F20,OGPOS031,Undetermined,Control,0
+5,F21,sgRNA_10000,27.23547554,sgRNA standard,11625
+5,F22,sgRNA_10000,27.0812645,sgRNA standard,11625
+5,F23,1000,Undetermined,ATCC standards,0
+5,F24,1000,Undetermined,ATCC standards,0
+5,G1,COVRNA0469,Undetermined,Clinical sample,0
+5,G2,COVRNA0566,Undetermined,Clinical sample,0
+5,G3,COVRNA0477,Undetermined,Clinical sample,0
+5,G4,COVRNA0567,Undetermined,Clinical sample,0
+5,G5,COVRNA0485,Undetermined,Clinical sample,0
+5,G6,COVRNA0568,Undetermined,Clinical sample,0
+5,G7,COVRNA0491,Undetermined,Clinical sample,0
+5,G8,COVRNA0569,Undetermined,Clinical sample,0
+5,G9,COVRNA0499,Undetermined,Clinical sample,0
+5,G10,COVRNA0570,Undetermined,Clinical sample,0
+5,G11,COVRNA0505,34.68597412,Clinical sample,17
+5,G12,COVRNA0571,Undetermined,Clinical sample,0
+5,G13,COVRNA0513,Undetermined,Clinical sample,0
+5,G14,COVRNA0572,Undetermined,Clinical sample,0
+5,G15,COVRNA0521,Undetermined,Clinical sample,0
+5,G16,COVRNA0573,Undetermined,Clinical sample,0
+5,G17,COVRNA0527,Undetermined,Clinical sample,0
+5,G18,COVRNA0574,Undetermined,Clinical sample,0
+5,G19,COVRNA0535,Undetermined,Clinical sample,0
+5,G20,COVRNA0575,Undetermined,Clinical sample,0
+5,G21,sgRNA_1000,29.93551445,sgRNA standard,1132
+5,G22,sgRNA_1000,29.99180603,sgRNA standard,1132
+5,G23,100,Undetermined,ATCC standards,0
+5,G24,100,Undetermined,ATCC standards,0
+5,H1,COVRNA0469,36.55710602,Clinical sample,0
+5,H2,COVRNA0566,Undetermined,Clinical sample,0
+5,H3,COVRNA0477,Undetermined,Clinical sample,0
+5,H4,COVRNA0567,Undetermined,Clinical sample,0
+5,H5,COVRNA0485,Undetermined,Clinical sample,0
+5,H6,COVRNA0568,Undetermined,Clinical sample,0
+5,H7,COVRNA0491,Undetermined,Clinical sample,0
+5,H8,COVRNA0569,Undetermined,Clinical sample,0
+5,H9,COVRNA0499,Undetermined,Clinical sample,0
+5,H10,COVRNA0570,Undetermined,Clinical sample,0
+5,H11,COVRNA0505,Undetermined,Clinical sample,0
+5,H12,COVRNA0571,Undetermined,Clinical sample,0
+5,H13,COVRNA0513,Undetermined,Clinical sample,0
+5,H14,COVRNA0572,Undetermined,Clinical sample,0
+5,H15,COVRNA0521,Undetermined,Clinical sample,0
+5,H16,COVRNA0573,Undetermined,Clinical sample,0
+5,H17,COVRNA0527,Undetermined,Clinical sample,0
+5,H18,COVRNA0574,Undetermined,Clinical sample,0
+5,H19,COVRNA0535,Undetermined,Clinical sample,0
+5,H20,COVRNA0575,Undetermined,Clinical sample,0
+5,H21,sgRNA_1000,29.6102829,sgRNA standard,1132
+5,H22,sgRNA_1000,29.49148369,sgRNA standard,2460
+5,H23,100,Undetermined,ATCC standards,0
+5,H24,100,Undetermined,ATCC standards,0
+5,I1,COVRNA0470,Undetermined,Clinical sample,0
+5,I2,COVRNA0576,Undetermined,Clinical sample,0
+5,I3,COVRNA0478,Undetermined,Clinical sample,0
+5,I4,COVRNA0577,Undetermined,Clinical sample,0
+5,I5,ZYPOS027,Undetermined,Control,0
+5,I6,COVRNA0578,Undetermined,Clinical sample,0
+5,I7,COVRNA0492,Undetermined,Clinical sample,0
+5,I8,COVRNA0579,Undetermined,Clinical sample,0
+5,I9,COVRNA0500,Undetermined,Clinical sample,0
+5,I10,COVRNA0580,Undetermined,Clinical sample,0
+5,I11,COVRNA0506,Undetermined,Clinical sample,0
+5,I12,COVRNA0581,Undetermined,Clinical sample,0
+5,I13,COVRNA0514,Undetermined,Clinical sample,0
+5,I14,COVRNA0582,Undetermined,Clinical sample,0
+5,I15,COVRNA0522,Undetermined,Clinical sample,0
+5,I16,COVRNA0583,Undetermined,Clinical sample,0
+5,I17,COVRNA0528,Undetermined,Clinical sample,0
+5,I18,COVRNA0584,Undetermined,Clinical sample,0
+5,I19,COVRNA0536,Undetermined,Clinical sample,0
+5,I20,COVRNA0585,Undetermined,Clinical sample,0
+5,I21,sgRNA_100,34.08450699,sgRNA standard,51
+5,I22,sgRNA_100,34.46561432,sgRNA standard,51
+5,I23,10,Undetermined,ATCC standards,0
+5,I24,10,Undetermined,ATCC standards,0
+5,J1,COVRNA0470,Undetermined,Clinical sample,0
+5,J2,COVRNA0576,Undetermined,Clinical sample,0
+5,J3,COVRNA0478,Undetermined,Clinical sample,0
+5,J4,COVRNA0577,Undetermined,Clinical sample,0
+5,J5,ZYPOS027,Undetermined,Control,0
+5,J6,COVRNA0578,Undetermined,Clinical sample,0
+5,J7,COVRNA0492,Undetermined,Clinical sample,0
+5,J8,COVRNA0579,Undetermined,Clinical sample,0
+5,J9,COVRNA0500,Undetermined,Clinical sample,0
+5,J10,COVRNA0580,Undetermined,Clinical sample,0
+5,J11,COVRNA0506,Undetermined,Clinical sample,0
+5,J12,COVRNA0581,Undetermined,Clinical sample,0
+5,J13,COVRNA0514,Undetermined,Clinical sample,0
+5,J14,COVRNA0582,Undetermined,Clinical sample,0
+5,J15,COVRNA0522,Undetermined,Clinical sample,0
+5,J16,COVRNA0583,Undetermined,Clinical sample,0
+5,J17,COVRNA0528,Undetermined,Clinical sample,0
+5,J18,COVRNA0584,Undetermined,Clinical sample,0
+5,J19,COVRNA0536,Undetermined,Clinical sample,0
+5,J20,COVRNA0585,Undetermined,Clinical sample,0
+5,J21,sgRNA_100,33.16950226,sgRNA standard,110
+5,J22,sgRNA_100,33.14449692,sgRNA standard,110
+5,J23,10,Undetermined,ATCC standards,0
+5,J24,10,Undetermined,ATCC standards,0
+5,K1,COVRNA0471,Undetermined,Clinical sample,0
+5,K2,COVRNA0586,Undetermined,Clinical sample,0
+5,K3,COVRNA0479,Undetermined,Clinical sample,0
+5,K4,COVRNA0587,Undetermined,Clinical sample,0
+5,K5,OGPOS027,Undetermined,Control,0
+5,K7,COVRNA0493,Undetermined,Clinical sample,0
+5,K9,COVRNA0501,Undetermined,Clinical sample,0
+5,K11,COVRNA0507,Undetermined,Clinical sample,0
+5,K13,COVRNA0515,Undetermined,Clinical sample,0
+5,K15,COVRNA0523,Undetermined,Clinical sample,0
+5,K17,COVRNA0529,Undetermined,Clinical sample,0
+5,K19,COVRNA0537,39.54696274,Clinical sample,0
+5,K21,sgRNA_10,Undetermined,sgRNA standard,0
+5,K22,sgRNA_10,36.14162064,sgRNA standard,11
+5,K23,1,Undetermined,ATCC standards,0
+5,K24,1,Undetermined,ATCC standards,0
+5,L1,COVRNA0471,Undetermined,Clinical sample,0
+5,L2,COVRNA0586,Undetermined,Clinical sample,0
+5,L3,COVRNA0479,Undetermined,Clinical sample,0
+5,L4,COVRNA0587,Undetermined,Clinical sample,0
+5,L5,OGPOS027,Undetermined,Control,0
+5,L7,COVRNA0493,Undetermined,Clinical sample,0
+5,L9,COVRNA0501,Undetermined,Clinical sample,0
+5,L11,COVRNA0507,Undetermined,Clinical sample,0
+5,L13,COVRNA0515,Undetermined,Clinical sample,0
+5,L15,COVRNA0523,Undetermined,Clinical sample,0
+5,L17,COVRNA0529,Undetermined,Clinical sample,0
+5,L19,COVRNA0537,Undetermined,Clinical sample,0
+5,L21,sgRNA_10,Undetermined,sgRNA standard,0
+5,L22,sgRNA_10,Undetermined,sgRNA standard,0
+5,L23,1,Undetermined,ATCC standards,0
+5,L24,1,Undetermined,ATCC standards,0
+5,M1,COVRNA0472,Undetermined,Clinical sample,0
+5,M3,COVRNA0480,Undetermined,Clinical sample,0
+5,M5,COVRNA0486,Undetermined,Clinical sample,0
+5,M7,COVRNA0494,Undetermined,Clinical sample,0
+5,M9,COVRNA0502,Undetermined,Clinical sample,0
+5,M11,COVRNA0508,Undetermined,Clinical sample,0
+5,M13,COVRNA0516,Undetermined,Clinical sample,0
+5,M15,COVRNA0524,Undetermined,Clinical sample,0
+5,M17,COVRNA0530,36.57918549,Clinical sample,0
+5,M19,COVRNA0538,Undetermined,Clinical sample,0
+5,M21,sgRNA_1,Undetermined,sgRNA standard,0
+5,M22,sgRNA_1,Undetermined,sgRNA standard,0
+5,M23,0,Undetermined,ATCC standards,0
+5,M24,0,Undetermined,ATCC standards,0
+5,N1,COVRNA0472,Undetermined,Clinical sample,0
+5,N3,COVRNA0480,Undetermined,Clinical sample,0
+5,N5,COVRNA0486,Undetermined,Clinical sample,0
+5,N7,COVRNA0494,Undetermined,Clinical sample,0
+5,N9,COVRNA0502,Undetermined,Clinical sample,0
+5,N11,COVRNA0508,Undetermined,Clinical sample,0
+5,N13,COVRNA0516,Undetermined,Clinical sample,0
+5,N15,COVRNA0524,Undetermined,Clinical sample,0
+5,N17,COVRNA0530,Undetermined,Clinical sample,0
+5,N19,COVRNA0538,Undetermined,Clinical sample,0
+5,N21,sgRNA_1,Undetermined,sgRNA standard,0
+5,N22,sgRNA_1,Undetermined,sgRNA standard,0
+5,N23,0,Undetermined,ATCC standards,0
+5,N24,0,Undetermined,ATCC standards,0
+5,O1,COVRNA0473,Undetermined,Clinical sample,0
+5,O3,COVRNA0481,Undetermined,Clinical sample,0
+5,O5,COVRNA0487,Undetermined,Clinical sample,0
+5,O7,COVRNA0495,Undetermined,Clinical sample,0
+5,O9,COVRNA0503,Undetermined,Clinical sample,0
+5,O11,COVRNA0509,Undetermined,Clinical sample,0
+5,O13,COVRNA0517,Undetermined,Clinical sample,0
+5,O15,COVRNA0525,Undetermined,Clinical sample,0
+5,O17,COVRNA0531,Undetermined,Clinical sample,0
+5,O19,COVRNA0539,Undetermined,Clinical sample,0
+5,O21,sgRNA_0.1,Undetermined,sgRNA standard,0
+5,O22,sgRNA_0.1,Undetermined,sgRNA standard,0
+5,O23,H2O,Undetermined,Water,0
+5,O24,H2O,Undetermined,Water,0
+5,P1,COVRNA0473,Undetermined,Clinical sample,0
+5,P3,COVRNA0481,Undetermined,Clinical sample,0
+5,P5,COVRNA0487,Undetermined,Clinical sample,0
+5,P7,COVRNA0495,Undetermined,Clinical sample,0
+5,P9,COVRNA0503,Undetermined,Clinical sample,0
+5,P11,COVRNA0509,Undetermined,Clinical sample,0
+5,P13,COVRNA0517,Undetermined,Clinical sample,0
+5,P15,COVRNA0525,Undetermined,Clinical sample,0
+5,P17,COVRNA0531,Undetermined,Clinical sample,0
+5,P19,COVRNA0539,Undetermined,Clinical sample,0
+5,P21,sgRNA_0.1,Undetermined,sgRNA standard,0
+5,P22,sgRNA_0.1,Undetermined,sgRNA standard,0
+5,P23,H2O,Undetermined,Water,0
+5,P24,H2O,Undetermined,Water,0
